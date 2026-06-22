@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "title": "Oceanario Islas del Rosario | Bolívar, Colombia",
+    "description": "Explora el Oceanario Islas del Rosario, un centro de investigación marina en Cartagena, Colombia, con ricos exhibiciones de vida marina del Caribe y programas de conservación ecológica."
+  },
+  "header": {
+    "siteName": "Oceanario Islas del Rosario",
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Oceanario Islas del Rosario",
+    "subtitle": "La joya marina de Colombia, maravilla ecológica del Caribe",
+    "rating": "4.5",
+    "reviewCount": "12,234",
+    "hours": "Acuario / Centro de Investigación Marina / Eco-turismo",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora el Oceanario Islas del Rosario",
+    "description": "El Oceanario Islas del Rosario está ubicado en las Islas del Rosario cerca de Cartagena, Bolívar, Colombia. Es un acuario de clase mundial dedicado a la investigación de biología marina, conservación y educación.\n\nComo una parte importante del Parque Nacional Natural Corales del Rosario y de San Bernardo, muestra el rico ecosistema marino del Caribe, incluyendo arrecifes de coral, peces tropicales, tortugas marinas y varias especies marinas. El acuario no es solo una atracción turística, sino también un importante centro de investigación marina y conservación ecológica.",
+    "visitGuide": {
+      "title": "Preparación y Consejos",
+      "items": [
+        "🚢 Transporte: Tome una lancha rápida desde el muelle de Cartagena, about 45-60 minutos a las Islas del Rosario. Se recomienda reservar boletos de barco con anticipación o unirse a un tour de un día.",
+        "🧴 Protección Solar: La región del Caribe tiene luz solar fuerte. Por favor traiga protector solar, sombrero y gafas de sol para proteger su piel de los daños UV.",
+        "💧 Manténgase Hidratado: El clima tropical es caliente y húmedo. Por favor traiga suficiente agua potable para evitar insolación y deshidratación."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Ecología Marina y Conservación",
+      "items": [
+        "🐠 Ecosistema de Arrecifes de Coral: El acuario muestra ecosistemas de arrecifes de coral saludables alrededor de las Islas del Rosario, una de las áreas marinas protegidas más importantes en la región del Caribe de Colombia.",
+        "🐢 Conservación de Tortugas Marinas: El acuario participa en programas de protección y rehabilitación de tortugas marinas. Los visitantes pueden aprender sobre los hábitos y el estado de conservación de estos reptiles marinos.",
+        "🐬 Mamíferos Marinos: Las exhibiciones incluyen mamíferos marinos incluyendo delfines, promoviendo conocimientos de conservación ecológica marina.",
+        "♻️ Turismo Sostenible: Por favor siga las reglas del acuario, no toque la vida marina y ayude a proteger el frágil ecosistema marino."
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "Datos Rápidos",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Oceanario Islas del Rosario (Oceanarium Rosario Islands)",
+    "type": "Tipo de Atracción",
+    "typeValue": "Acuario / Centro de Investigación Marina / Eco-turismo",
+    "country": "País",
+    "countryValue": "Colombia",
+    "city": "Provincia/Ciudad",
+    "cityValue": "Bolívar, Cartagena",
+    "googleRating": "Calificación de Google",
+    "address": "Ubicación",
+    "addressValue": "Islas del Rosario, Cartagena de Indias, Bolívar, Colombia",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "HQR7+HF Cartagena, Colombia",
+    "phone": "Teléfono",
+    "phoneValue": "+57 318 551 0888",
+    "petFriendly": "Mascotas permitidas",
+    "petFriendlyValue": "No se admiten mascotas (para proteger la vida marina)",
+    "tickets": "Entradas",
+    "ticketsValue": "Los precios de las entradas varian según el paquete. Se recomienda consultar y reservar en línea con anticipación"
+  },
+  "hours": {
+    "title": "Horarios y Consejos para Visitantes",
+    "outdoor": "Horario del Acuario",
+    "outdoorTime": "Diariamente 08:00–17:00",
+    "lighthouse": "Mejor Momento de Visita",
+    "summer": "Temporada Seca (dic-abr)",
+    "summerTime": "Clima soleado, condiciones estables del mar, ideal para paseos en bote y observación de vida marina",
+    "winter": "Destacados",
+    "winterTime": "Exhibiciones de arrecifes de coral, santuario de tortugas marinas, galería de peces tropicales, educación ecológica marina",
+    "warning": "💡 Advertencia de Seguridad y Clima",
+    "warningTime": "Es posible que haya chubascos por la tarde en la región del Caribe. Se recomienda partir por la mañana. Use chalecos salvavidas al navegar y preste atención a la seguridad.",
+    "tip": "Se recomienda reservar al menos 3-4 horas para visitar el acuario, y preparar tiempo extra para disfrutar de las playas y actividades de snorkel cercanas."
+  },
+  "tickets": {
+    "title": "Información Importante",
+    "outdoor": "Tarifa de Entrada",
+    "outdoorPrice": "Los precios varian según el paquete. Consulte el sitio web oficial o plataformas de reserva en línea",
+    "lighthouse": "Información de Transporte",
+    "adults": "Desde Cartagena",
+    "adultsPrice": "Lancha rápida desde el muelle de Cartagena, about 45-60 minutos",
+    "students": "Consejos de Visita",
+    "studentsPrice": "Reserve 3-4 horas para la visita, puede combinar con paquete de tour de un día",
+    "card": "Actividades Cercanas",
+    "cardPrice": "Snorkel, relajación en playa, exploración de islas. 👉 [Ir a Islas del Rosario]",
+    "officialNotice": "Se recomienda reservar entradas en línea con anticipación, especialmente durante la temporada alta de turismo. Para más detalles, visite",
+    "officialNoticeLinkLabel": "Sitio Web Oficial del Oceanario Islas del Rosario",
+    "officialNoticeLink": "https://oceanario.co/"
+  },
+  "transport": {
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "Desde el Aeropuerto Internacional Rafael Núñez (Cartagena), necesita primero llegar al centro de Cartagena, luego ir al muelle para tomar una lancha rápida a las Islas del Rosario.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "Conduzca hasta el muelle de Cartagena, luego estacione y tome una lancha rápida. Por favor note los costos de estacionamiento en el muelle y la seguridad.",
+    "bus": "Transporte Público",
+    "busDesc": "Desde el centro de Cartagena, puede tomar un taxi o autobús al muelle, luego tomar una lancha rápida a las Islas del Rosario.",
+    "intercity": "Tour en Bote",
+    "intercityDesc": "Tome una lancha rápida desde el muelle de Cartagena, about 45-60 minutos. Se recomienda reservar boletos de barco con anticipación.",
+    "cycling": "Otros Consejos",
+    "cyclingDesc": "Considere unirse a un paquete de tour de un día que incluye transporte, entradas y almuerzo para mayor conveniencia.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "Parta por la mañana para evitar chubascos de la tarde. Traiga protector solar, traje de baño y toallas para actividades de playa y snorkel."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "Sienta las Maravillas Marinas del Caribe de Colombia",
+    "captions": [
+      "Vista panorámica del acuario",
+      "Exhibición de arrecife de coral",
+      "Galería de peces tropicales",
+      "Santuario de tortugas marinas",
+      "Exhibición de vida marina",
+      "Paisaje del mar Caribe",
+      "Actividad de snorkel",
+      "Playa de la isla",
+      "Educación ecológica marina",
+      "Islas del Rosario",
+      "Centro de investigación marina",
+      "Eco-turismo",
+      "Caribe de Colombia",
+      "Programa de conservación marina",
+      "Maravilla natural",
+      "Experiencia del visitante",
+      "Biodiversidad marina"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "¡Excelente acuario! Muestra el rico ecosistema marino de las Islas del Rosario, perfecto para familias y niños."
+      },
+      {
+        "name": "Li Xiaoming",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Muy conveniente para venir en bote desde Cartagena. El acuario está bellamente diseñado con diversa vida marina. ¡Muy recomendado!"
+      },
+      {
+        "name": "María González",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "¡Un lugar imperdible en Colombia! Aprenda sobre los ecosistemas de arrecifes de coral del Caribe y la conservación marina."
+      },
+      {
+        "name": "John Smith",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "¡Una experiencia inolvidable! El santuario de tortugas marinas es increíble, y el personal es muy profesional y amable."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Bellás exhibiciones de vida marina, pero se pone bastante concurrido los fines de semana. Recomiendo visitar entre semana para una mejor experiencia."
+      },
+      {
+        "name": "Zhang Wei",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "¡Absolutamente vale la pena visitarlo! Recuerde traer su cámara, cada ángulo es un hermoso paisaje marino."
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "hace 3 meses",
+        "rating": 5,
+        "text": "¡Este es un modelo de conservación ecológica marina en Colombia! El diseño y las exhibiciones del acuario son muy profesionales."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Me uní a un paquete de tour de un día que incluye visita al acuario, snorkel y almuerzo. ¡Totalmente vale la pena!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y Mapa",
+    "subtitle": "Islas del Rosario, Cartagena de Indias, Bolívar, Colombia",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Oceanario Islas del Rosario. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales y Enlaces",
+    "officialLinks": {
+      "oceanario": {
+        "name": "Sitio Web Oficial del Oceanario Islas del Rosario",
+        "url": "https://oceanario.co/"
+      },
+      "parquesnacionales": {
+        "name": "Parque Nacional Natural Corales del Rosario y de San Bernardo",
+        "url": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-corales-del-rosario-y-de-san-bernardo/"
+      },
+      "colombiatravel": {
+        "name": "Portal Oficial de Turismo de Colombia (Colombia Travel)",
+        "url": "https://colombia.travel/"
+      },
+      "cartagena": {
+        "name": "Sitio Web Oficial de la Alcaldía de Cartagena",
+        "url": "https://www.cartagena.gov.co/"
+      },
+      "bolivar": {
+        "name": "Sitio Web Oficial de la Gobernación del Bolívar",
+        "url": "https://www.bolivar.gov.co/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "officialManagement": {
+    "title": "Acerca del Oceanario Islas del Rosario",
+    "text": "El Oceanario Islas del Rosario es una famosa institución de investigación de biología marina en Cartagena, Bolívar, Colombia, conocida por sus exhibiciones de ecosistemas marinos del Caribe y investigación de conservación marina, apoyada por la administración de Parques Naturales Nacionales de Colombia y gobiernos locales relevantes."
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "Período Inicial",
+        "title": "Período Inicial: Conservación Marina e Investigación",
+        "plaque": "Conservación Marina (Institución de Investigación)",
+        "description": "El Oceanario Islas del Rosario, como una parte importante del Parque Nacional Natural Corales del Rosario y de San Bernardo, ha sido por mucho tiempo un importante centro de investigación y conservación de ecosistemas marinos en la región del Caribe de Colombia."
+      },
+      {
+        "year": "Siglo XX",
+        "title": "Siglo XX: Desarrollo de Eco-Turismo",
+        "plaque": "Desarrollo de Turismo (Conservación Ecológica)",
+        "description": "Con el crecimiento del turismo en Colombia, el Oceanario Islas del Rosario se convirtió gradualmente en uno de los destinos de eco-turismo marino más populares, atrayendo visitantes de todo el mundo."
+      },
+      {
+        "year": "Siglo XXI",
+        "title": "Siglo XXI: Reconocimiento de Desarrollo Sostenible",
+        "plaque": "Conservación Ecológica (Desarrollo Sostenible)",
+        "description": "Como una institución importante para la conservación marina en la región del Caribe de Colombia, el acuario ha ganado reconocimiento y apoyo internacional, dedicado a la conservación ecológica marina y educación para el desarrollo sostenible."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puede tomar una lancha rápida desde Cartagena a las Islas del Rosario; luego visite las áreas de exhibición de arrecifes de coral y exhibición de vida marina del acuario; si tiene tiempo suficiente, puede unirse a actividades de snorkel o explorar las playas cercanas. Finalmente, regrese a Cartagena para explorar esta ciudad histórica."
+  },
+  "route": {
+    "title": "Guía de Visita",
+    "overview": "Hay principalmente las siguientes formas de explorar el Oceanario Islas del Rosario. Por favor elija según su tiempo e intereses:",
+    "steps": [
+      "1. Tour Profundo del Acuario (Recomendado): About 2-3 horas",
+      "Destacados: Después de tomar una lancha rápida desde Cartagena a las Islas del Rosario, primero visite las áreas principales de exhibición del acuario, incluyendo ecosistema de arrecifes de coral, galería de peces tropicales, santuario de tortugas marinas, etc. Puede disfrutar del almuerzo en el restaurante de la isla al mediodía.",
+      "Por la tarde, puede unirse a actividades de snorkel para explorar el ecosistema de arrecifes de coral cercanos, o simplemente relajarse en la playa.",
+      "2. Paquete de Tour de Un Día (Adecuado para turistas con tiempo limitado): About 6-8 horas",
+      "Destacados: Si tiene tiempo limitado o desea una experiencia más conveniente, puede elegir un paquete de tour de un día. El paquete generalmente incluye transporte redondo desde el muelle de Cartagena, entradas del acuario, almuerzo y alquiler de equipo de snorkel."
+    ],
+    "supplementsTitle": "Consejos Adicionales del Tour",
+    "supplements": [
+      "Los precios de las entradas varian según el paquete. Se recomienda consultar y reservar en línea con anticipación, especialmente durante la temporada alta de turismo.",
+      "Tocar la vida marina está prohibido en el acuario. Por favor siga las reglas y proteja el frágil ecosistema marino.",
+      "Las Islas del Rosario están ubicadas en el Mar Caribe con luz solar fuerte. Por favor prepare para protección solar y traiga suficiente agua."
+    ]
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Limitación de Responsabilidad",
+        "content": "No seremos responsables por ningún daño directo o indirecto derivado del uso de este sitio web o la dependencia de la información aquí proporcionada."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  }
+}

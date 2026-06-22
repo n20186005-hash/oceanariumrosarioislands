@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "title": "Oceanarium Rosario Islands | Bolívar, Colombia",
+    "description": "Explore Oceanarium Rosario Islands, a marine research center in Cartagena, Colombia, featuring rich Caribbean marine life exhibits and ecological conservation programs."
+  },
+  "header": {
+    "siteName": "Oceanarium Rosario Islands",
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Oceanarium Rosario Islands",
+    "subtitle": "Colombia's Marine Gem, Caribbean Ecological Wonder",
+    "rating": "4.5",
+    "reviewCount": "12,234",
+    "hours": "Aquarium / Marine Research Center / Eco-Tourism",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Oceanarium Rosario Islands",
+    "description": "Oceanarium Rosario Islands (Oceanario Islas del Rosario) is located in the Rosario Islands near Cartagena, Bolívar, Colombia. It is a world-class aquarium dedicated to marine biology research, conservation, and education.\n\nAs an important part of the Rosario and San Bernardo Corals National Natural Park, it showcases the rich Caribbean marine ecosystem, including coral reefs, tropical fish, sea turtles, and various marine species. The aquarium is not only a tourist attraction but also an important marine research and ecological conservation center.",
+    "visitGuide": {
+      "title": "Preparation & Tips",
+      "items": [
+        "🚢 Transportation: Take a speedboat from Cartagena pier, about 45-60 minutes to the Rosario Islands. It is recommended to book boat tickets in advance or join a day tour.",
+        "🧴 Sun Protection: The Caribbean region has strong sunlight. Please bring sunscreen, hat, and sunglasses to protect your skin from UV damage.",
+        "💧 Stay Hydrated: Tropical climate is hot and humid. Please bring enough drinking water to avoid heatstroke and dehydration."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Marine Ecology & Conservation",
+      "items": [
+        "🐠 Coral Reef Ecosystem: The aquarium showcases healthy coral reef ecosystems around the Rosario Islands, one of the most important marine protected areas in Colombia's Caribbean region.",
+        "🐢 Sea Turtle Conservation: The aquarium participates in sea turtle protection and rehabilitation programs. Visitors can learn about the habits and conservation status of these marine reptiles.",
+        "🐬 Marine Mammals: Exhibits include marine mammals including dolphins, promoting marine ecological conservation knowledge.",
+        "♻️ Sustainable Tourism: Please follow the aquarium's rules, do not touch marine life, and help protect the fragile marine ecosystem."
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "Quick Facts",
+    "officialName": "Official Name",
+    "officialNameValue": "Oceanarium Rosario Islands (Oceanario Islas del Rosario)",
+    "type": "Attraction Type",
+    "typeValue": "Aquarium / Marine Research Center / Eco-Tourism",
+    "country": "Country",
+    "countryValue": "Colombia",
+    "city": "Province/City",
+    "cityValue": "Bolívar, Cartagena",
+    "googleRating": "Google Rating",
+    "address": "Location",
+    "addressValue": "Islas del Rosario, Cartagena de Indias, Bolívar, Colombia",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "HQR7+HF Cartagena, Colombia",
+    "phone": "Phone",
+    "phoneValue": "+57 318 551 0888",
+    "petFriendly": "Pet Friendly",
+    "petFriendlyValue": "Pets not allowed (to protect marine life)",
+    "tickets": "Tickets",
+    "ticketsValue": "Ticket prices vary by package. It is recommended to check and book online in advance"
+  },
+  "hours": {
+    "title": "Opening Hours & Visitor Info",
+    "outdoor": "Aquarium Hours",
+    "outdoorTime": "Daily 08:00–17:00",
+    "lighthouse": "Best Visiting Time",
+    "summer": "Dry Season (Dec-Apr)",
+    "summerTime": "Sunny weather, stable sea conditions, ideal for boating and marine life viewing",
+    "winter": "Highlights",
+    "winterTime": "Coral reef exhibits, sea turtle sanctuary, tropical fish gallery, marine ecology education",
+    "warning": "💡 Safety & Weather Warning",
+    "warningTime": "Afternoon showers are possible in the Caribbean region. It is recommended to depart in the morning. Wear life jackets when boating and pay attention to safety.",
+    "tip": "It is recommended to reserve at least 3-4 hours to visit the aquarium, and prepare extra time to enjoy the nearby beaches and snorkeling activities."
+  },
+  "tickets": {
+    "title": "Important Information",
+    "outdoor": "Entrance Fee",
+    "outdoorPrice": "Prices vary by package. Check official website or online booking platforms",
+    "lighthouse": "Transportation Info",
+    "adults": "From Cartagena",
+    "adultsPrice": "Speedboat from Cartagena pier, about 45-60 minutes",
+    "students": "Tour Suggestions",
+    "studentsPrice": "Reserve 3-4 hours for visit, can combine with day tour package",
+    "card": "Nearby Activities",
+    "cardPrice": "Snorkeling, beach relaxation, island exploration. 👉 [Go to Rosario Islands]",
+    "officialNotice": "It is recommended to book tickets online in advance, especially during peak tourist season. For more details, visit",
+    "officialNoticeLinkLabel": "Oceanarium Rosario Islands Official Website",
+    "officialNoticeLink": "https://oceanario.co/"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "From Rafael Núñez International Airport (Cartagena), you need to first reach Cartagena city center, then go to the pier to take a speedboat to the Rosario Islands.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "Drive to Cartagena pier, then park and take a speedboat. Please note pier parking fees and safety.",
+    "bus": "Public Transport",
+    "busDesc": "From Cartagena city center, you can take a taxi or bus to the pier, then take a speedboat to the Rosario Islands.",
+    "intercity": "Boat Tour",
+    "intercityDesc": "Take a speedboat from Cartagena pier, about 45-60 minutes. It is recommended to book boat tickets in advance.",
+    "cycling": "Other Tips",
+    "cyclingDesc": "Consider joining a day tour package including transportation, tickets, and lunch for more convenience.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Depart in the morning to avoid afternoon showers. Bring sun protection, swimwear, and towels for beach and snorkeling activities."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Feel Colombia's Caribbean Marine Wonders",
+    "captions": [
+      "Aquarium panoramic view",
+      "Coral reef exhibit",
+      "Tropical fish gallery",
+      "Sea turtle sanctuary",
+      "Marine life exhibit",
+      "Caribbean seascape",
+      "Snorkeling activity",
+      "Island beach",
+      "Marine ecology education",
+      "Rosario Islands",
+      "Marine research center",
+      "Eco-tourism",
+      "Colombia Caribbean",
+      "Marine conservation program",
+      "Natural wonder",
+      "Visitor experience",
+      "Marine biodiversity"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Excellent aquarium! Showcases the rich marine ecosystem of the Rosario Islands, perfect for families and children."
+      },
+      {
+        "name": "Li Xiaoming",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Very convenient to come by boat from Cartagena. The aquarium is beautifully designed with diverse marine life. Highly recommended!"
+      },
+      {
+        "name": "María González",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "A must-visit place in Colombia! Learn about Caribbean coral reef ecosystems and marine conservation."
+      },
+      {
+        "name": "John Smith",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "Unforgettable experience! The sea turtle sanctuary is特别棒, and the staff are very professional and friendly."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Beautiful marine life exhibits, but it gets quite crowded on weekends. Recommend visiting on weekdays for a better experience."
+      },
+      {
+        "name": "Zhang Wei",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Absolutely worth a visit! Remember to bring your camera, every angle is a beautiful marine landscape."
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "This is a model of marine ecological conservation in Colombia! The design and exhibits of the aquarium are very professional."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "I joined a full-day tour package including aquarium visit, snorkeling, and lunch. Totally worth it!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "Islas del Rosario, Cartagena de Indias, Bolívar, Colombia",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Oceanarium Rosario Islands. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Links",
+    "officialLinks": {
+      "oceanario": {
+        "name": "Oceanarium Rosario Islands Official Website (Oceanario Islas del Rosario)",
+        "url": "https://oceanario.co/"
+      },
+      "parquesnacionales": {
+        "name": "Rosario and San Bernardo Corals National Natural Park (Parque Nacional Natural Corales del Rosario y de San Bernardo)",
+        "url": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-corales-del-rosario-y-de-san-bernardo/"
+      },
+      "colombiatravel": {
+        "name": "Colombia National Tourism Portal (Colombia Travel)",
+        "url": "https://colombia.travel/"
+      },
+      "cartagena": {
+        "name": "Cartagena Municipality Official Website (Alcaldía de Cartagena)",
+        "url": "https://www.cartagena.gov.co/"
+      },
+      "bolivar": {
+        "name": "Bolívar Governorate Official Website (Gobernación del Bolívar)",
+        "url": "https://www.bolivar.gov.co/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "officialManagement": {
+    "title": "About Oceanarium Rosario Islands",
+    "text": "Oceanarium Rosario Islands is a famous marine biology research institution in Cartagena, Bolívar, Colombia, known for its Caribbean marine ecosystem exhibits and marine conservation research, supported by Colombia's National Natural Parks administration and relevant local governments."
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Early Period",
+        "title": "Early Period: Marine Conservation & Research",
+        "plaque": "Marine Conservation (Research Institution)",
+        "description": "Oceanarium Rosario Islands, as an important part of the Rosario and San Bernardo Corals National Natural Park, has long been an important marine ecology research and conservation center in Colombia's Caribbean region."
+      },
+      {
+        "year": "20th Century",
+        "title": "20th Century: Eco-Tourism Development",
+        "plaque": "Tourism Development (Ecological Conservation)",
+        "description": "With the growth of tourism in Colombia, Oceanarium Rosario Islands gradually became one of the most popular marine eco-tourism destinations, attracting visitors from around the world."
+      },
+      {
+        "year": "21st Century",
+        "title": "21st Century: Sustainable Development Recognition",
+        "plaque": "Ecological Conservation (Sustainable Development)",
+        "description": "As an important institution for marine conservation in Colombia's Caribbean region, the aquarium has gained international recognition and support, dedicated to marine ecological conservation and sustainable development education."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can take a speedboat from Cartagena to the Rosario Islands; then visit the aquarium's coral reef exhibits and marine life exhibition areas; if you have enough time, you can join snorkeling activities or explore the nearby beaches. Finally, return to Cartagena to explore this historic city."
+  },
+  "route": {
+    "title": "Tour Guide",
+    "overview": "There are mainly the following ways to explore Oceanarium Rosario Islands. Please choose according to your time and interests:",
+    "steps": [
+      "1. In-depth Aquarium Tour (Recommended): About 2-3 hours",
+      "Highlights: After taking a speedboat from Cartagena to the Rosario Islands, first visit the aquarium's main exhibition areas, including coral reef ecosystem, tropical fish gallery, sea turtle sanctuary, etc. You can enjoy lunch at the island's restaurant at noon.",
+      "In the afternoon, you can join snorkeling activities to explore the nearby coral reef ecosystem, or simply relax on the beach.",
+      "2. Day Tour Package (Suitable for tourists with limited time): About 6-8 hours",
+      "Highlights: If you have limited time or want a more convenient experience, you can choose a day tour package. The package usually includes round-trip transportation from Cartagena pier, aquarium tickets, lunch, and snorkeling gear rental."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "Ticket prices vary by package. It is recommended to check and book online in advance, especially during peak tourist season.",
+      "Touching marine life is prohibited in the aquarium. Please follow the rules and protect the fragile marine ecosystem.",
+      "The Rosario Islands are located in the Caribbean Sea with strong sunlight. Please prepare for sun protection and bring enough water."
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be liable for any direct or indirect damages arising from the use of this website or reliance on the information provided herein."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "title": "罗萨里奥群岛水族馆 (Oceanarium Rosario Islands) | 哥伦比亚玻利瓦尔省",
+    "description": "探索罗萨里奥群岛水族馆，哥伦比亚卡塔赫纳的海洋生物研究中心，拥有丰富的加勒比海海洋生物展示和生态保护项目。"
+  },
+  "header": {
+    "siteName": "罗萨里奥群岛水族馆",
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "罗萨里奥群岛水族馆",
+    "subtitle": "哥伦比亚的海洋瑰宝，加勒比海的生态奇观",
+    "rating": "4.5",
+    "reviewCount": "12,234",
+    "hours": "水族馆 / 海洋研究中心 / 生态旅游",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索罗萨里奥群岛水族馆",
+    "description": "罗萨里奥群岛水族馆（Oceanario Islas del Rosario）位于哥伦比亚玻利瓦尔省卡塔赫纳附近的罗萨里奥群岛，是一个致力于海洋生物研究、保护和教育的世界级水族馆。\n\n作为罗萨里奥和圣贝尔纳多珊瑚国家自然公园的重要组成部分，这里展示了加勒比海丰富的海洋生态系统，包括珊瑚礁、热带鱼类、海龟等多种海洋生物。水族馆不仅是一个旅游景点，更是一个重要的海洋科研和生态保护中心。",
+    "visitGuide": {
+      "title": "行前建议 (Preparation & Tips)",
+      "items": [
+        "🚢 交通方式：从卡塔赫纳码头乘坐快艇约 45-60 分钟即可到达罗萨里奥群岛。建议提前预订船票或参加一日游团。",
+        "🧴 防晒准备：加勒比海地区阳光强烈，请携带防晒霜、帽子和太阳镜，保护皮肤免受紫外线伤害。",
+        "💧 保持水分：热带气候炎热潮湿，请携带充足饮用水，避免中暑和脱水。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "海洋生态与保护 (Marine Ecology & Conservation)",
+      "items": [
+        "🐠 珊瑚礁生态系统：水族馆展示了罗萨里奥群岛周边健康的珊瑚礁生态系统，这里是哥伦比亚加勒比海地区最重要的海洋保护区之一。",
+        "🐢 海龟保护：水族馆参与海龟保护和康复项目，游客可以了解这些海洋爬行动物的生活习性和保护现状。",
+        "🐬 海洋哺乳动物：展示包括海豚在内的海洋哺乳动物，普及海洋生态保护知识。",
+        "♻️ 可持续旅游：请遵守水族馆的规定，不要触摸海洋生物，共同保护脆弱的海洋生态系统。"
+      ]
+    }
+  },
+  "basicInfo": {
+    "title": "核心标签 (Quick Facts)",
+    "officialName": "正式名称",
+    "officialNameValue": "罗萨里奥群岛水族馆 (Oceanarium Rosario Islands / Oceanario Islas del Rosario)",
+    "type": "景点类型",
+    "typeValue": "水族馆 / 海洋研究中心 / 生态旅游",
+    "country": "所在国家",
+    "countryValue": "哥伦比亚",
+    "city": "所在省市",
+    "cityValue": "玻利瓦尔省，卡塔赫纳",
+    "googleRating": "谷歌评分",
+    "address": "位置",
+    "addressValue": "Islas del Rosario, Cartagena de Indias, Bolívar, 哥伦比亚",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "HQR7+HF 卡塔赫纳, 哥伦比亚",
+    "phone": "联系电话",
+    "phoneValue": "+57 318 551 0888",
+    "petFriendly": "宠物准入",
+    "petFriendlyValue": "不允许宠物进入（保护海洋生物）",
+    "tickets": "门票信息",
+    "ticketsValue": "门票价格因套餐而异，建议提前在线查询和预订"
+  },
+  "hours": {
+    "title": "开放时间与游览建议 (Visitor Info)",
+    "outdoor": "水族馆开放时间",
+    "outdoorTime": "每天 08:00–17:00",
+    "lighthouse": "最佳游览时间",
+    "summer": "旱季（12月-4月）",
+    "summerTime": "天气晴朗，海况稳定，适合乘船和观赏海洋生物",
+    "winter": "游览亮点",
+    "winterTime": "珊瑚礁展示、海龟保护区、热带鱼馆、海洋生态教育",
+    "warning": "💡 行前预警 (Safety & Weather Warning)",
+    "warningTime": "加勒比海地区午后有阵雨可能，建议早上出发。乘船时请穿好救生衣，注意安全。",
+    "tip": "建议预留至少 3-4 小时参观水族馆，并准备额外时间享受周边的海滩和浮潜活动。"
+  },
+  "tickets": {
+    "title": "注意事项",
+    "outdoor": "入场费用",
+    "outdoorPrice": "价格因套餐而异，建议查询官方网站或在线预订平台",
+    "lighthouse": "交通信息",
+    "adults": "从卡塔赫纳出发",
+    "adultsPrice": "从卡塔赫纳码头乘坐快艇约 45-60 分钟",
+    "students": "游览建议",
+    "studentsPrice": "预留 3-4 小时参观，可结合一日游套餐",
+    "card": "周边活动",
+    "cardPrice": "浮潜、海滩休闲、岛屿探索。👉 [前往罗萨里奥群岛]",
+    "officialNotice": "建议提前在线预订门票，尤其是旅游旺季。详情可查阅",
+    "officialNoticeLinkLabel": "罗萨里奥群岛水族馆官方网站",
+    "officialNoticeLink": "https://oceanario.co/"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "从拉斐尔·努涅斯国际机场（卡塔赫纳）出发，需要先到达卡塔赫纳市区，然后前往码头乘坐快艇前往罗萨里奥群岛。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "自驾至卡塔赫纳码头，然后停车并乘坐快艇。请注意码头停车费用和安全。",
+    "bus": "公共交通",
+    "busDesc": "从卡塔赫纳市区可乘坐出租车或公交车到达码头，然后乘坐快艇前往罗萨里奥群岛。",
+    "intercity": "乘船游览",
+    "intercityDesc": "从卡塔赫纳码头乘坐快艇约 45-60 分钟即可到达。建议提前预订船票。",
+    "cycling": "其他建议",
+    "cyclingDesc": "可考虑参加一日游套餐，包含交通、门票和午餐，更加方便快捷。",
+    "tips": "出行建议",
+    "tipsDesc": "建议早上出发，避开下午的阵雨。携带防晒用品、泳衣和毛巾，享受海滩和浮潜活动。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "感受哥伦比亚加勒比海的海洋奇观",
+    "captions": [
+      "水族馆全景",
+      "珊瑚礁展示",
+      "热带鱼馆",
+      "海龟保护区",
+      "海洋生物展示",
+      "加勒比海风光",
+      "浮潜活动",
+      "岛屿海滩",
+      "海洋生态教育",
+      "罗萨里奥群岛",
+      "海洋研究中心",
+      "生态旅游",
+      "哥伦比亚加勒比海",
+      "海洋保护项目",
+      "自然奇观",
+      "游客体验",
+      "海洋生物多样性"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "非常棒的水族馆！展示了罗萨里奥群岛丰富的海洋生态系统，特别适合家庭和小朋友。"
+      },
+      {
+        "name": "李小明",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "从卡塔赫纳乘船过来很方便。水族馆设计精美，海洋生物种类繁多，强烈推荐！"
+      },
+      {
+        "name": "María González",
+        "date": "3周前",
+        "rating": 5,
+        "text": "哥伦比亚必去的地方！可以了解到加勒比海的珊瑚礁生态系统和海洋保护知识。"
+      },
+      {
+        "name": "John Smith",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "难忘的体验！海龟保护区特别棒，工作人员非常专业且友好。"
+      },
+      {
+        "name": "Ana Silva",
+        "date": "2个月前",
+        "rating": 4,
+        "text": "美丽的海洋生物展示，但周末人比较多。建议工作日前往，可以更好地观赏。"
+      },
+      {
+        "name": "张伟",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "绝对值得一游！记得带上相机，每个角度都是美丽的海洋景观。"
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "3个月前",
+        "rating": 5,
+        "text": "这是哥伦比亚海洋生态保护的典范！水族馆的设计和展示都非常专业。"
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "我参加了全天的一日游套餐，包括水族馆参观、浮潜和午餐，非常值得！"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Islas del Rosario, Cartagena de Indias, Bolívar, 哥伦比亚",
+    "openMaps": "在 Google Maps 查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 罗萨里奥群岛水族馆. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "oceanario": {
+        "name": "罗萨里奥群岛水族馆官方网站 (Oceanario Islas del Rosario)",
+        "url": "https://oceanario.co/"
+      },
+      "parquesnacionales": {
+        "name": "罗萨里奥和圣贝尔纳多珊瑚国家自然公园 (Parque Nacional Natural Corales del Rosario y de San Bernardo)",
+        "url": "https://www.parquesnacionales.gov.co/nuestros-parques/pnn-corales-del-rosario-y-de-san-bernardo/"
+      },
+      "colombiatravel": {
+        "name": "哥伦比亚国家旅游局 (Colombia Travel)",
+        "url": "https://colombia.travel/"
+      },
+      "cartagena": {
+        "name": "卡塔赫纳市政府 (Alcaldía de Cartagena)",
+        "url": "https://www.cartagena.gov.co/"
+      },
+      "bolivar": {
+        "name": "玻利瓦尔省政府 (Gobernación del Bolívar)",
+        "url": "https://www.bolivar.gov.co/"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于罗萨里奥群岛水族馆",
+    "text": "罗萨里奥群岛水族馆是哥伦比亚玻利瓦尔省卡塔赫纳的著名海洋生物研究机构，以加勒比海海洋生态系统展示和海洋保护研究而闻名，由哥伦比亚国家自然公园管理局与相关地方政府共同支持。"
+  },
+  "historyTimeline": {
+    "title": "历史与发展",
+    "items": [
+      {
+        "year": "早期",
+        "title": "早期：海洋保护与研究",
+        "plaque": "海洋保护 (研究机构)",
+        "description": "罗萨里奥群岛水族馆作为罗萨里奥和圣贝尔纳多珊瑚国家自然公园的重要组成部分，长期以来一直是哥伦比亚加勒比海地区重要的海洋生态研究和保护中心。"
+      },
+      {
+        "year": "20世纪",
+        "title": "20世纪：生态旅游发展",
+        "plaque": "旅游发展 (生态保护)",
+        "description": "随着哥伦比亚旅游业的发展，罗萨里奥群岛水族馆逐渐成为最受欢迎的海洋生态旅游目的地之一，吸引了来自世界各地的游客。"
+      },
+      {
+        "year": "21世纪",
+        "title": "21世纪：可持续发展认可",
+        "plaque": "生态保护 (可持续发展)",
+        "description": "作为哥伦比亚加勒比海地区海洋保护的重要机构，水族馆得到了国际认可和支持，致力于海洋生态保护和可持续发展教育。"
+      }
+    ],
+    "guideTitle": "游客导览建议",
+    "guideContent": "游客在参观时，可以从卡塔赫纳乘坐快艇前往罗萨里奥群岛；随后参观水族馆的珊瑚礁展示和海洋生物展区；如果您有充足的时间，可以参加浮潜活动或探索周边的海滩。最后返回卡塔赫纳探索这座历史名城。"
+  },
+  "route": {
+    "title": "游览路线建议 (Tour Guide)",
+    "overview": "探索罗萨里奥群岛水族馆主要有以下方式，请根据您的时间和兴趣进行选择：",
+    "steps": [
+      "1. 水族馆深度游 (Recommended - 推荐）：约 2-3 小时",
+      "路线亮点：从卡塔赫纳乘坐快艇到达罗萨里奥群岛后，首先参观水族馆的主要展区，包括珊瑚礁生态系统、热带鱼馆、海龟保护区等。中午可以在岛上的餐厅享用午餐。",
+      "下午可以参加浮潜活动，探索周边的珊瑚礁生态系统，或者 simply relax on the beach。",
+      "2. 一日游套餐 (Day Tour Package - 适合时间有限的游客)：约 6-8 小时",
+      "路线亮点：如果您时间有限或想要更便捷的体验，可以选择一日游套餐。套餐通常包括卡塔赫纳码头的往返交通、水族馆门票、午餐和浮潜装备租赁。"
+    ],
+    "supplementsTitle": "游览补充建议",
+    "supplements": [
+      "门票价格因套餐而异，建议提前在线查询和预订，尤其是在旅游旺季。",
+      "水族馆内禁止触摸海洋生物，请遵守规定，保护脆弱的海洋生态系统。",
+      "罗萨里奥群岛位于加勒比海，阳光强烈，请做好防晒准备，并携带足够的水。"
+    ]
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用本网站或依赖其中提供的信息而产生的任何直接或间接损失，我们不承担任何责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  }
+}
