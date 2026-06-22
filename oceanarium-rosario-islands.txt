@@ -1,0 +1,214 @@
+
+
+
+我们网站是
+oceanariumrosarioislands.com
+检查下有没有错误
+
+
+
+
+
+
+
+
+
+
+
+国家 / 地区 * Country/Region *
+中文：哥伦比亚
+English：Colombia
+地址 * Address *
+中文：罗萨里奥群岛海洋水族馆
+English：Oceanario Islas del Rosario
+地址 2 Address 2
+无补充信息，留空 / Leave blank
+城市 * City *
+中文：卡塔赫纳德印第亚斯
+English：Cartagena de Indias
+省 / 自治区 / 直辖市 * State/Province *
+中文：玻利瓦尔省
+English：Bolívar
+邮政编码 * Postal Code *
+官方标准邮编：130019
+
+
+
+
+
+哥伦比亚玻利瓦尔省	Oceanarium Rosario Islands
+Oceanarium Rosario Islands
+Oceanario Islas del Rosario
+4.5(12,234)
+水族馆
+
+Islas del Rosario, Cartagena de Indias, Bolívar, 哥伦比亚
+3185510888
+
+https://maps.app.goo.gl/HqrToqDsNtcf7N7J6
+
+买域名推荐
+
+
+oceanariumrosarioislands.com
+
+
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Oceanarium Rosario Islands 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文、英文、西班牙文、语言
+
+oceanarium-rosario-islands
+
+哥伦比亚玻利瓦尔省	Oceanarium Rosario Islands
+Oceanarium Rosario Islands
+Oceanario Islas del Rosario
+4.5(12,234)
+水族馆
+
+Islas del Rosario, Cartagena de Indias, Bolívar, 哥伦比亚
+3185510888
+
+https://maps.app.goo.gl/HqrToqDsNtcf7N7J6
+
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\哥伦比亚\oceanarium-rosario-islands\public\gallery
+
+删除原先友情链接，新增以下友情链接
+
+
+Oceanario Islas del Rosario
+https://oceanario.co/
+
+Parque Nacional Natural Corales del Rosario y de San Bernardo
+https://www.parquesnacionales.gov.co/nuestros-parques/pnn-corales-del-rosario-y-de-san-bernardo/
+
+哥伦比亚国家旅游局
+https://colombia.travel/
+
+卡塔赫纳市政府
+https://www.cartagena.gov.co/
+
+玻利瓦尔省政府
+https://www.bolivar.gov.co/
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/HqrToqDsNtcf7N7J6
+页面一共四个链接每一个都需要修改
+	
+照片画廊
+精彩照片
+检查照片名称是否正确并修正
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/HqrToqDsNtcf7N7J6
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/HqrToqDsNtcf7N7J6
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/HqrToqDsNtcf7N7J6
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/HqrToqDsNtcf7N7J6
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+
+这是景点的最核心官方机构，全称为哥伦比亚加勒比海海洋动物保护、繁殖和环境教育中心（CEINER）。
+
+官方网站： https://oceanario.co/
+
+收录价值： 作为水族馆的唯一官方主页，它详细介绍了珊瑚修复和海龟保育项目，是获取第一手票务规则与动物科普资料的首选权威外链。
+
+
+
+罗萨里奥群岛和圣贝尔纳多群岛国家自然公园
+4.8
+
+🏞️ 国家公园
+
+罗萨里奥群岛和圣贝尔纳多群岛国家自然公园
+
+
+
+Parque Nacional Natural Corales del Rosario
+4.7
+
+🏞️ 国家公园
+
+该水族馆直接坐落于此国家公园的管辖海域内，并与紧邻的 Parque Nacional Natural Corales del Rosario 核心生态保护区融为一体。
+
+官方网站： [https://www.parquesnacionales.gov.co/nuestros-parques/pnn-corales-del-rosario-y-de-san-bernardo/](https://www.parquesnacionales.gov.co/nuestros-parques/pnn-corales-del-rosario-y-de-san-bernardo/)
+
+收录价值： 由国家公园管理局 (.gov.co) 运营，提供生态保护条例、游客行为准则和官方登岛税（环保费）数据，是旅游攻略页面的重要佐证。
+
+
+
+哥伦比亚
+
+哥伦比亚国家旅游局
+由 ProColombia 运营的国家级旅游门户平台，代表了该国旅游资源的最高官方展示。
+
+官方网站： https://colombia.travel/
+
+收录价值： 包含前往各大群岛的高权重、多语言向导。链接至此可为读者提供更广阔的旅行规划视角，补充地标页面的延伸阅读广度。
+
+
+
+喀他赫纳
+
+喀他赫纳市长办公室
+水族馆及所在的群岛在行政划属上直接受该市政府管辖。
+
+官方网站： https://www.cartagena.gov.co/
+
+收录价值： 市长办公室经常发布关于码头出海政策、正规指导价格以及打击非官方旅游代理的通告。将其作为出站链接能有效增强防坑指南或交通信息的可靠性。
+
+
+
+波利瓦尔
+
+波利瓦尔省政府
+作为更高一级的省级行政区，其文旅板块覆盖了整个区域的宏观发展。
+
+官方网站： [https://www.bolivar.gov.co/](https://www.bolivar.gov.co/)
+
+收录价值： 提供该省域内的文旅发展议程、海滩规划政策等宏观背景数据，非常适合用于丰富地标百科页面中的“行政区划”或“历史发展”等纵深板块。
+
+
+
+
+
+
+
+
+
+哥伦比亚国家自然公园管理局官方网站 (Parques Nacionales Naturales de Colombia)
+https://www.parquesnacionales.gov.co/
+
+萨伦托市政府官方网站 (Alcaldía de Salento)
+https://www.salento-quindio.gov.co/
+
+哥伦比亚官方旅游局门户网站 (Colombia Travel)
+https://colombia.travel/es
+
+金迪奥省政府官方网站 (Gobernación del Quindío)
+https://www.quindio.gov.co/
+
+金迪奥省区域自治公司 - 环境与自然资源管理 (Corporación Autónoma Regional del Quindío - CRQ)
+https://www.crq.gov.co/
+
