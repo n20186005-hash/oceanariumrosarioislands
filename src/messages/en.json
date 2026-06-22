@@ -86,9 +86,10 @@
     "studentsPrice": "Reserve 3-4 hours for visit, can combine with day tour package",
     "card": "Nearby Activities",
     "cardPrice": "Snorkeling, beach relaxation, island exploration. 👉 [Go to Rosario Islands]",
-    "officialNotice": "It is recommended to book tickets online in advance, especially during peak tourist season. For more details, visit",
-    "officialNoticeLinkLabel": "Oceanarium Rosario Islands Official Website",
-    "officialNoticeLink": "https://oceanario.co/"
+    "officialNotice": "It is recommended to book tickets online in advance, especially during peak tourist seasons. For details, please check",
+    "officialNoticeLinkLabel": "Oceanario Islas del Rosario Official Website",
+    "officialNoticeLink": "https://oceanario.co/",
+    "ctaButton": "Book Tickets on Official Website"
   },
   "transport": {
     "title": "Transportation",
@@ -103,7 +104,8 @@
     "cycling": "Other Tips",
     "cyclingDesc": "Consider joining a day tour package including transportation, tickets, and lunch for more convenience.",
     "tips": "Travel Tips",
-    "tipsDesc": "Depart in the morning to avoid afternoon showers. Bring sun protection, swimwear, and towels for beach and snorkeling activities."
+    "tipsDesc": "Depart in the morning to avoid afternoon showers. Bring sun protection, swimwear, and towels for beach and snorkeling activities.",
+    "ctaButton": "Check Boat Schedules"
   },
   "gallery": {
     "title": "Stunning Photos",

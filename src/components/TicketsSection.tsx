@@ -104,6 +104,20 @@ export default function TicketsSection() {
             </div>
           </div>
         )}
+
+        {t.has('ctaButton') && (
+          <div className="mt-8 flex justify-center">
+            <a
+              href="https://oceanario.co/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block px-8 py-3 rounded-full font-semibold transition-transform hover:scale-105"
+              style={{ background: 'var(--accent)', color: 'white' }}
+            >
+              {t('ctaButton')}
+            </a>
+          </div>
+        )}
       </div>
     </section>
   );

@@ -92,7 +92,7 @@ function RouteStep({ step, description }: { step: number; description: string })
         className="flex-1 rounded-xl p-4"
         style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
       >
-        <p className="text-sm leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+        <p className="text-sm leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
           {description}
         </p>
       </div>
