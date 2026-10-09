@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Oceanario Islas del Rosario | Bolívar, Colombia",
-    "description": "Explora el Oceanario Islas del Rosario, un centro de investigación marina en Cartagena, Colombia, con ricos exhibiciones de vida marina del Caribe y programas de conservación ecológica."
+    "title": "Oceanario Islas del Rosario: Precios, Horarios y Cómo Llegar",
+    "description": "Visita el Oceanario Islas del Rosario en Cartagena. Consulta horarios, precios de entrada, cómo llegar en lancha y consejos para planear tu visita."
   },
   "header": {
     "siteName": "Oceanario Islas del Rosario",
@@ -12,10 +12,11 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Oceanario Islas del Rosario",
+    "title": "Oceanario Islas del Rosario en Cartagena",
     "subtitle": "La joya marina de Colombia, maravilla ecológica del Caribe",
     "rating": "4.5",
-    "reviewCount": "12,234",
+    "reviewCount": "12,376",
+    "ratingNote": "Google · verificado octubre 2026",
     "hours": "Acuario / Centro de Investigación Marina / Eco-turismo",
     "openMaps": "Ver Ubicación"
   },
@@ -25,7 +26,7 @@
     "visitGuide": {
       "title": "Preparación y Consejos",
       "items": [
-        "🚢 Transporte: Tome una lancha rápida desde el muelle de Cartagena, about 45-60 minutos a las Islas del Rosario. Se recomienda reservar boletos de barco con anticipación o unirse a un tour de un día.",
+        "🚢 Transporte: Tome una lancha rápida desde el muelle de Cartagena, aproximadamente 45-60 minutos a las Islas del Rosario. Se recomienda reservar boletos de barco con anticipación o unirse a un tour de un día.",
         "🧴 Protección Solar: La región del Caribe tiene luz solar fuerte. Por favor traiga protector solar, sombrero y gafas de sol para proteger su piel de los daños UV.",
         "💧 Manténgase Hidratado: El clima tropical es caliente y húmedo. Por favor traiga suficiente agua potable para evitar insolación y deshidratación."
       ]
@@ -60,12 +61,12 @@
     "petFriendly": "Mascotas permitidas",
     "petFriendlyValue": "No se admiten mascotas (para proteger la vida marina)",
     "tickets": "Entradas",
-    "ticketsValue": "Los precios de las entradas varian según el paquete. Se recomienda consultar y reservar en línea con anticipación"
+    "ticketsValue": "Los precios de las entradas varían según el paquete. Se recomienda consultar y reservar en línea con anticipación"
   },
   "hours": {
     "title": "Horarios y Consejos para Visitantes",
     "outdoor": "Horario del Acuario",
-    "outdoorTime": "Diariamente 08:00–17:00",
+    "outdoorTime": "Diariamente 09:00–13:30",
     "lighthouse": "Mejor Momento de Visita",
     "summer": "Temporada Seca (dic-abr)",
     "summerTime": "Clima soleado, condiciones estables del mar, ideal para paseos en bote y observación de vida marina",
@@ -78,10 +79,10 @@
   "tickets": {
     "title": "Información Importante",
     "outdoor": "Tarifa de Entrada",
-    "outdoorPrice": "Los precios varian según el paquete. Consulte el sitio web oficial o plataformas de reserva en línea",
+    "outdoorPrice": "Los precios varían según el paquete. Consulte el sitio web oficial o plataformas de reserva en línea",
     "lighthouse": "Información de Transporte",
     "adults": "Desde Cartagena",
-    "adultsPrice": "Lancha rápida desde el muelle de Cartagena, about 45-60 minutos",
+    "adultsPrice": "Lancha rápida desde el muelle de Cartagena, aproximadamente 45-60 minutos",
     "students": "Consejos de Visita",
     "studentsPrice": "Reserve 3-4 horas para la visita, puede combinar con paquete de tour de un día",
     "card": "Actividades Cercanas",
@@ -99,7 +100,7 @@
     "bus": "Transporte Público",
     "busDesc": "Desde el centro de Cartagena, puede tomar un taxi o autobús al muelle, luego tomar una lancha rápida a las Islas del Rosario.",
     "intercity": "Tour en Bote",
-    "intercityDesc": "Tome una lancha rápida desde el muelle de Cartagena, about 45-60 minutos. Se recomienda reservar boletos de barco con anticipación.",
+    "intercityDesc": "Tome una lancha rápida desde el muelle de Cartagena, aproximadamente 45-60 minutos. Se recomienda reservar boletos de barco con anticipación.",
     "cycling": "Otros Consejos",
     "cyclingDesc": "Considere unirse a un paquete de tour de un día que incluye transporte, entradas y almuerzo para mayor conveniencia.",
     "tips": "Consejos de Viaje",
@@ -132,58 +133,12 @@
   },
   "reviews": {
     "title": "Reseñas de Visitantes",
-    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
-    "moreReviews": "Ver Más Reseñas en Google Maps",
-    "items": [
-      {
-        "name": "Carlos Mendoza",
-        "date": "hace 2 meses",
-        "rating": 5,
-        "text": "¡Excelente acuario! Muestra el rico ecosistema marino de las Islas del Rosario, perfecto para familias y niños."
-      },
-      {
-        "name": "Li Xiaoming",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "Muy conveniente para venir en bote desde Cartagena. El acuario está bellamente diseñado con diversa vida marina. ¡Muy recomendado!"
-      },
-      {
-        "name": "María González",
-        "date": "hace 3 semanas",
-        "rating": 5,
-        "text": "¡Un lugar imperdible en Colombia! Aprenda sobre los ecosistemas de arrecifes de coral del Caribe y la conservación marina."
-      },
-      {
-        "name": "John Smith",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "¡Una experiencia inolvidable! El santuario de tortugas marinas es increíble, y el personal es muy profesional y amable."
-      },
-      {
-        "name": "Ana Silva",
-        "date": "hace 2 meses",
-        "rating": 4,
-        "text": "Bellás exhibiciones de vida marina, pero se pone bastante concurrido los fines de semana. Recomiendo visitar entre semana para una mejor experiencia."
-      },
-      {
-        "name": "Zhang Wei",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "¡Absolutamente vale la pena visitarlo! Recuerde traer su cámara, cada ángulo es un hermoso paisaje marino."
-      },
-      {
-        "name": "Roberto Pérez",
-        "date": "hace 3 meses",
-        "rating": 5,
-        "text": "¡Este es un modelo de conservación ecológica marina en Colombia! El diseño y las exhibiciones del acuario son muy profesionales."
-      },
-      {
-        "name": "Emma Wilson",
-        "date": "hace 2 meses",
-        "rating": 5,
-        "text": "Me uní a un paquete de tour de un día que incluye visita al acuario, snorkel y almuerzo. ¡Totalmente vale la pena!"
-      }
-    ]
+    "declaration": "Calificación agregada obtenida de Google Maps. No publicamos reseñas individuales; verifícalas en Google Maps.",
+    "moreReviews": "Ver reseñas en Google Maps",
+    "ratingValue": "4.5",
+    "reviewCount": "12,376",
+    "source": "Google Maps",
+    "verifiedNote": "Calificación verificada octubre 2026"
   },
   "mapSection": {
     "title": "Ubicación y Mapa",
@@ -253,15 +208,15 @@
     "title": "Guía de Visita",
     "overview": "Hay principalmente las siguientes formas de explorar el Oceanario Islas del Rosario. Por favor elija según su tiempo e intereses:",
     "steps": [
-      "1. Tour Profundo del Acuario (Recomendado): About 2-3 horas",
+      "1. Tour Profundo del Acuario (Recomendado): Aproximadamente 2-3 horas",
       "Destacados: Después de tomar una lancha rápida desde Cartagena a las Islas del Rosario, primero visite las áreas principales de exhibición del acuario, incluyendo ecosistema de arrecifes de coral, galería de peces tropicales, santuario de tortugas marinas, etc. Puede disfrutar del almuerzo en el restaurante de la isla al mediodía.",
       "Por la tarde, puede unirse a actividades de snorkel para explorar el ecosistema de arrecifes de coral cercanos, o simplemente relajarse en la playa.",
-      "2. Paquete de Tour de Un Día (Adecuado para turistas con tiempo limitado): About 6-8 horas",
+      "2. Paquete de Tour de Un Día (Adecuado para turistas con tiempo limitado): Aproximadamente 6-8 horas",
       "Destacados: Si tiene tiempo limitado o desea una experiencia más conveniente, puede elegir un paquete de tour de un día. El paquete generalmente incluye transporte redondo desde el muelle de Cartagena, entradas del acuario, almuerzo y alquiler de equipo de snorkel."
     ],
     "supplementsTitle": "Consejos Adicionales del Tour",
     "supplements": [
-      "Los precios de las entradas varian según el paquete. Se recomienda consultar y reservar en línea con anticipación, especialmente durante la temporada alta de turismo.",
+      "Los precios de las entradas varían según el paquete. Se recomienda consultar y reservar en línea con anticipación, especialmente durante la temporada alta de turismo.",
       "Tocar la vida marina está prohibido en el acuario. Por favor siga las reglas y proteja el frágil ecosistema marino.",
       "Las Islas del Rosario están ubicadas en el Mar Caribe con luz solar fuerte. Por favor prepare para protección solar y traiga suficiente agua."
     ]
@@ -355,5 +310,182 @@
     },
     "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
     "rejectAll": "Rechazar Todas"
+  },
+  "topics": {
+    "linksTitle": "Planifica tu visita",
+    "linksSubtitle": "Guías prácticas para visitar el Oceanario Islas del Rosario cerca de Cartagena.",
+    "linksCta": "Leer más",
+    "tickets": {
+      "title": "Entradas y Precios del Oceanario Islas del Rosario",
+      "description": "Precios de entrada al Oceanario Islas del Rosario en Cartagena: tarifa de adultos y niños, si incluye la lancha desde Cartagena y dónde comprar las entradas.",
+      "card": "Entradas y precios",
+      "cardDesc": "Tarifas de adulto y niño, si incluye la lancha y dónde comprar.",
+      "intro": "El Oceanario Islas del Rosario (Oceanario CEINER) es un acuario de investigación ubicado en la Isla San Martín de Pajarales. A continuación te explicamos cómo funciona el acceso y los precios de referencia para planear tu visita.",
+      "sections": [
+        {
+          "heading": "Tarifa de referencia",
+          "body": "Según operadores turísticos locales, la entrada de referencia es de aproximadamente 40.000 COP para adultos y 30.000 COP para niños. Estos precios pueden variar según el operador y la temporada; confírmalos en el punto de venta oficial antes de tu visita."
+        },
+        {
+          "heading": "¿El precio incluye la lancha?",
+          "body": "Por lo general, la entrada del acuario NO incluye el transporte en lancha desde Cartagena. El bote se contrata por separado en los muelles de Cartagena (La Bodeguita o Muelle Turístico). Muchos tours de un día combinan ambos."
+        },
+        {
+          "heading": "Dónde comprar",
+          "body": "Puedes comprar la entrada en el muelle de Cartagena, a través de operadores de tours o en plataformas en línea. En temporada alta (diciembre–abril) se recomienda reservar con antelación."
+        },
+        {
+          "heading": "Consejos para ahorrar",
+          "body": "Los paquetes de tour de un día suelen incluir transporte en lancha, entrada al acuario, almuerzo y equipo de snorkel, lo que resulta más conveniente que contratar cada servicio por separado."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Cuánto cuesta la entrada al Oceanario?",
+          "a": "La entrada de referencia ronda los 40.000 COP (adultos) y 30.000 COP (niños), según operadores turísticos. Confirmamos que estos precios no son oficiales del acuario y pueden cambiar; verifica en el punto de venta antes de tu visita."
+        },
+        {
+          "q": "¿El precio incluye el transporte en lancha desde Cartagena?",
+          "a": "Normalmente no. El pasaje en lancha se paga aparte en los muelles de Cartagena. Los tours organizados sí suelen incluirlo en un solo paquete."
+        },
+        {
+          "q": "¿Dónde compro las entradas?",
+          "a": "En los muelles de Cartagena, con agencias de viajes o en línea. Reserva con anticipación en temporada alta para asegurar disponibilidad."
+        },
+        {
+          "q": "¿Hay entrada gratis para niños?",
+          "a": "Algunos operadores aplican tarifas reducidas o gratuitas a niños pequeños; depende del paquete contratado. Consulta la política vigente al comprar."
+        }
+      ]
+    },
+    "getting-there": {
+      "title": "Cómo Llegar al Oceanario Islas del Rosario",
+      "description": "Cómo llegar al Oceanario Islas del Rosario desde Cartagena: lancha desde el muelle, duración del trayecto, opciones desde el aeropuerto y consejos de transporte.",
+      "card": "Cómo llegar",
+      "cardDesc": "Lancha desde Cartagena, duración del trayecto y opciones desde el aeropuerto.",
+      "intro": "El Oceanario está en la Isla San Martín de Pajarales, dentro del archipiélago de las Islas del Rosario, a unos 45–60 minutos en lancha desde Cartagena.",
+      "sections": [
+        {
+          "heading": "Desde Cartagena en lancha",
+          "body": "Toma una lancha rápida desde los muelles de Cartagena (La Bodeguita o Muelle Turístico) hasta las Islas del Rosario. El trayecto dura aproximadamente 45–60 minutos. Sal de mañana para aprovechar el horario de apertura."
+        },
+        {
+          "heading": "Desde el aeropuerto",
+          "body": "Desde el Aeropuerto Internacional Rafael Núñez llega primero al centro de Cartagena y luego al muelle para tomar la lancha."
+        },
+        {
+          "heading": "Tours organizados",
+          "body": "Muchos visitantes eligen un tour de un día que incluye transporte ida y vuelta en lancha, entrada y almuerzo. Es la opción más cómoda si no quieres coordinar el bote por tu cuenta."
+        },
+        {
+          "heading": "Consejos de transporte",
+          "body": "Llega al muelle 30 minutos antes de la salida, lleva protector solar y ropa de baño, y reserva el regreso con tiempo porque las lanchas suelen dejar las islas temprano."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Cómo llegar al Oceanario desde Cartagena?",
+          "a": "En lancha rápida desde los muelles de Cartagena (La Bodeguita o Muelle Turístico); el trayecto dura unos 45–60 minutos."
+        },
+        {
+          "q": "¿Cuánto dura el trayecto en lancha?",
+          "a": "Entre 45 y 60 minutos, dependiendo del mar y del tipo de embarcación."
+        },
+        {
+          "q": "¿El Oceanario está en Isla Grande?",
+          "a": "No. El Oceanario Islas del Rosario (CEINER) está en la Isla San Martín de Pajarales, dentro del archipiélago de las Islas del Rosario, no en Isla Grande."
+        },
+        {
+          "q": "¿Puedo ir por mi cuenta o necesito un tour?",
+          "a": "Puedes ir por tu cuenta contratando la lancha en el muelle, pero un tour de un día resulta más conveniente porque incluye transporte, entrada y almuerzo."
+        }
+      ]
+    },
+    "tours": {
+      "title": "Tours al Oceanario Islas del Rosario",
+      "description": "Tours al Oceanario Islas del Rosario cerca de Cartagena: opciones de día completo, snorkel, tours privados y qué incluyen los paquetes.",
+      "card": "Tours",
+      "cardDesc": "Tour de día completo, snorkel, privados y qué incluyen.",
+      "intro": "Los tours son la forma más sencilla de visitar el Oceanario desde Cartagena: combinan transporte en lancha, entrada y actividades en un solo paquete.",
+      "sections": [
+        {
+          "heading": "Tour de día completo",
+          "body": "Incluye lancha ida y vuelta, entrada al acuario, almuerzo y tiempo en playa. Ideal para quien visita Cartagena por poco tiempo."
+        },
+        {
+          "heading": "Tour con snorkel",
+          "body": "Añade equipo de snorkel y tiempo para explorar los arrecifes de coral cercanos. Recomendado para amantes del mar."
+        },
+        {
+          "heading": "Tour privado",
+          "body": "Bote privado con horario flexible, guía y paradas personalizadas. Buena opción para familias o grupos."
+        },
+        {
+          "heading": "Qué incluyen los paquetes",
+          "body": "Varía según la agencia, pero lo habitual es transporte, entrada y almuerzo. Confirma siempre qué está incluido antes de pagar."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Qué incluye un tour al Oceanario?",
+          "a": "Lo habitual es lancha ida y vuelta, entrada al acuario y almuerzo. Algunos añaden snorkel o visitas a otras islas."
+        },
+        {
+          "q": "¿Vale la pena un tour guiado?",
+          "a": "Sí si prefieres comodidad: el tour coordina el bote, la entrada y el regreso, evitando coordinar cada servicio por tu cuenta."
+        },
+        {
+          "q": "¿Se puede combinar con otras islas?",
+          "a": "Sí, muchos tours combinan el Oceanario con playas o snorkel en otras islas del Rosario."
+        },
+        {
+          "q": "¿Cuánto cuesta un tour?",
+          "a": "Depende de la agencia, temporada y lo que incluya. Compara opciones en Cartagena y reserva con antelación en temporada alta."
+        }
+      ]
+    },
+    "hours": {
+      "title": "Horarios del Oceanario Islas del Rosario",
+      "description": "Horario de apertura del Oceanario Islas del Rosario en Cartagena, mejor momento para visitar, temporada y cuánto tiempo dura la visita.",
+      "card": "Horarios",
+      "cardDesc": "Horario de apertura, mejor momento y duración de la visita.",
+      "intro": "El Oceanario Islas del Rosario abre por la mañana. Planifica con antelación porque el transporte en lancha desde Cartagena ocupa gran parte del día.",
+      "sections": [
+        {
+          "heading": "Horario de apertura",
+          "body": "El acuario abre de 09:00 a 13:30. Te recomendamos confirmar el horario en el sitio oficial antes de tu visita, ya que puede variar por temporada o clima."
+        },
+        {
+          "heading": "Mejor momento para ir",
+          "body": "Llega temprano en la mañana. El mar suele estar más calmado y tendrás tiempo de sobra antes de la salida de las lanchas."
+        },
+        {
+          "heading": "Temporada",
+          "body": "La temporada alta es diciembre–abril (marejada baja, buena visibilidad). De mayo a noviembre puede haber lluvias por la tarde."
+        },
+        {
+          "heading": "Duración de la visita",
+          "body": "Reserva al menos 2–3 horas en el acuario, más el tiempo de lancha ida y vuelta (45–60 min cada tramo)."
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Cuál es el horario del Oceanario?",
+          "a": "Abre de 09:00 a 13:30. Confirma en el sitio oficial antes de tu visita."
+        },
+        {
+          "q": "¿Qué días está abierto?",
+          "a": "Generalmente abre todos los días por la mañana; el horario puede ajustarse por clima o temporada. Verifica antes de salir de Cartagena."
+        },
+        {
+          "q": "¿Cuánto tiempo se necesita para la visita?",
+          "a": "Unas 2–3 horas en el acuario, más el transporte en lancha. Planea un día completo si vienes desde Cartagena."
+        },
+        {
+          "q": "¿Por qué abre solo por la mañana?",
+          "a": "Porque el retorno en lancha desde las islas suele programarse al mediodía; el horario matutino se alinea con los horarios de los botes."
+        }
+      ]
+    }
   }
 }

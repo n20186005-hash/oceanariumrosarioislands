@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://oceanariumrosarioislands.com/sitemap.xml
+Sitemap: https://www.oceanariumrosarioislands.com/sitemap.xml

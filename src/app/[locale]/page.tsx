@@ -11,6 +11,7 @@ import TransportSection from '@/components/TransportSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
+import TopicLinks from '@/components/TopicLinks';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -33,6 +34,7 @@ export default async function HomePage({
         <HoursSection />
         <TicketsSection />
         <TransportSection />
+        <TopicLinks locale={locale} />
         <Gallery />
         <Reviews />
         <MapEmbed />

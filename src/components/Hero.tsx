@@ -55,6 +55,12 @@ export default function Hero() {
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
           </div>
+
+          {t.has('ratingNote') && (
+            <p className="text-white/70 text-xs mt-4">
+              {t('ratingNote')}
+            </p>
+          )}
         </div>
       </div>
 

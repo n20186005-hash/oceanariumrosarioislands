@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Oceanarium Rosario Islands | Bolívar, Colombia",
-    "description": "Explore Oceanarium Rosario Islands, a marine research center in Cartagena, Colombia, featuring rich Caribbean marine life exhibits and ecological conservation programs."
+    "title": "Oceanario Islas del Rosario | Cartagena Tickets & Visitor Guide",
+    "description": "Plan your visit to Oceanario Islas del Rosario near Cartagena, Colombia. Find opening hours, ticket information, boat transport and practical visitor tips."
   },
   "header": {
     "siteName": "Oceanarium Rosario Islands",
@@ -12,10 +12,11 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Oceanarium Rosario Islands",
+    "title": "Oceanario Islas del Rosario near Cartagena",
     "subtitle": "Colombia's Marine Gem, Caribbean Ecological Wonder",
     "rating": "4.5",
-    "reviewCount": "12,234",
+    "reviewCount": "12,376",
+    "ratingNote": "Google · verified October 2026",
     "hours": "Aquarium / Marine Research Center / Eco-Tourism",
     "openMaps": "View Location"
   },
@@ -65,7 +66,7 @@
   "hours": {
     "title": "Opening Hours & Visitor Info",
     "outdoor": "Aquarium Hours",
-    "outdoorTime": "Daily 08:00–17:00",
+    "outdoorTime": "Daily 09:00–13:30",
     "lighthouse": "Best Visiting Time",
     "summer": "Dry Season (Dec-Apr)",
     "summerTime": "Sunny weather, stable sea conditions, ideal for boating and marine life viewing",
@@ -134,58 +135,12 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
-    "moreReviews": "View More Reviews on Google Maps",
-    "items": [
-      {
-        "name": "Carlos Mendoza",
-        "date": "2 months ago",
-        "rating": 5,
-        "text": "Excellent aquarium! Showcases the rich marine ecosystem of the Rosario Islands, perfect for families and children."
-      },
-      {
-        "name": "Li Xiaoming",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "Very convenient to come by boat from Cartagena. The aquarium is beautifully designed with diverse marine life. Highly recommended!"
-      },
-      {
-        "name": "María González",
-        "date": "3 weeks ago",
-        "rating": 5,
-        "text": "A must-visit place in Colombia! Learn about Caribbean coral reef ecosystems and marine conservation."
-      },
-      {
-        "name": "John Smith",
-        "date": "Over 6 months ago",
-        "rating": 5,
-        "text": "Unforgettable experience! The sea turtle sanctuary is特别棒, and the staff are very professional and friendly."
-      },
-      {
-        "name": "Ana Silva",
-        "date": "2 months ago",
-        "rating": 4,
-        "text": "Beautiful marine life exhibits, but it gets quite crowded on weekends. Recommend visiting on weekdays for a better experience."
-      },
-      {
-        "name": "Zhang Wei",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "Absolutely worth a visit! Remember to bring your camera, every angle is a beautiful marine landscape."
-      },
-      {
-        "name": "Roberto Pérez",
-        "date": "3 months ago",
-        "rating": 5,
-        "text": "This is a model of marine ecological conservation in Colombia! The design and exhibits of the aquarium are very professional."
-      },
-      {
-        "name": "Emma Wilson",
-        "date": "2 months ago",
-        "rating": 5,
-        "text": "I joined a full-day tour package including aquarium visit, snorkeling, and lunch. Totally worth it!"
-      }
-    ]
+    "declaration": "Aggregate rating sourced from Google Maps. We do not publish individual reviews—verify them on Google Maps.",
+    "moreReviews": "View reviews on Google Maps",
+    "ratingValue": "4.5",
+    "reviewCount": "12,376",
+    "source": "Google Maps",
+    "verifiedNote": "Rating verified October 2026"
   },
   "mapSection": {
     "title": "Location & Map",
@@ -357,5 +312,182 @@
     },
     "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
     "rejectAll": "Reject All"
+  },
+  "topics": {
+    "linksTitle": "Plan your visit",
+    "linksSubtitle": "Practical guides for visiting the Oceanario Islas del Rosario near Cartagena.",
+    "linksCta": "Read more",
+    "tickets": {
+      "title": "Oceanario Islas del Rosario Tickets & Prices",
+      "description": "Oceanario Islas del Rosario ticket prices near Cartagena: adult and child rates, whether the boat from Cartagena is included, and where to buy tickets.",
+      "card": "Tickets & prices",
+      "cardDesc": "Adult and child rates, boat inclusion, and where to buy.",
+      "intro": "The Oceanario Islas del Rosario (Oceanario CEINER) is a research aquarium on Isla San Martín de Pajarales. Here is how access and reference pricing work so you can plan your visit.",
+      "sections": [
+        {
+          "heading": "Reference pricing",
+          "body": "According to local tour operators, reference entry is about 40,000 COP for adults and 30,000 COP for children. Prices vary by operator and season; confirm at the official point of sale before your visit."
+        },
+        {
+          "heading": "Does the price include the boat?",
+          "body": "Generally, the aquarium entry does NOT include the speedboat transfer from Cartagena. The boat is booked separately at the Cartagena docks (La Bodeguita or Muelle Turístico). Many day tours bundle both."
+        },
+        {
+          "heading": "Where to buy",
+          "body": "You can buy entry at the Cartagena dock, through tour operators, or on online platforms. In high season (December–April) booking ahead is recommended."
+        },
+        {
+          "heading": "Money-saving tips",
+          "body": "Day-tour packages usually include round-trip boat, aquarium entry, lunch, and snorkel gear, which is more convenient than booking each service separately."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How much is the entry to the Oceanario?",
+          "a": "Reference pricing is around 40,000 COP (adults) and 30,000 COP (children) per local operators. These are not official aquarium prices and may change; verify at the point of sale before visiting."
+        },
+        {
+          "q": "Does the price include the boat from Cartagena?",
+          "a": "Usually no. The boat fare is paid separately at the Cartagena docks. Organized tours typically include it in one package."
+        },
+        {
+          "q": "Where do I buy tickets?",
+          "a": "At the Cartagena docks, via travel agencies, or online. Book ahead in high season to secure availability."
+        },
+        {
+          "q": "Is there free entry for children?",
+          "a": "Some operators offer reduced or free entry for young children depending on the package. Check the current policy when buying."
+        }
+      ]
+    },
+    "getting-there": {
+      "title": "How to Get to Oceanario Islas del Rosario",
+      "description": "How to get to the Oceanario Islas del Rosario from Cartagena: speedboat from the dock, trip duration, airport options, and transport tips.",
+      "card": "Getting there",
+      "cardDesc": "Speedboat from Cartagena, trip duration, and airport options.",
+      "intro": "The Oceanario is on Isla San Martín de Pajarales in the Rosario Islands archipelago, about 45–60 minutes by boat from Cartagena.",
+      "sections": [
+        {
+          "heading": "Speedboat from Cartagena",
+          "body": "Take a fast boat from the Cartagena docks (La Bodeguita or Muelle Turístico) to the Rosario Islands. The trip takes about 45–60 minutes. Depart in the morning to make the opening hours."
+        },
+        {
+          "heading": "From the airport",
+          "body": "From Rafael Núñez International Airport, first reach downtown Cartagena, then the dock to catch the boat."
+        },
+        {
+          "heading": "Organized tours",
+          "body": "Many visitors choose a day tour that includes round-trip boat, entry, and lunch. It is the most convenient option if you don't want to arrange the boat yourself."
+        },
+        {
+          "heading": "Transport tips",
+          "body": "Arrive at the dock 30 minutes before departure, bring sun protection and swimwear, and book your return in advance because boats usually leave the islands early."
+        }
+      ],
+      "faq": [
+        {
+          "q": "How do I get to the Oceanario from Cartagena?",
+          "a": "By fast boat from the Cartagena docks (La Bodeguita or Muelle Turístico); the trip is about 45–60 minutes."
+        },
+        {
+          "q": "How long is the boat trip?",
+          "a": "Between 45 and 60 minutes, depending on sea conditions and the vessel."
+        },
+        {
+          "q": "Is the Oceanario on Isla Grande?",
+          "a": "No. The Oceanario Islas del Rosario (CEINER) is on Isla San Martín de Pajarales in the Rosario Islands archipelago, not on Isla Grande."
+        },
+        {
+          "q": "Can I go on my own or do I need a tour?",
+          "a": "You can go independently by hiring the boat at the dock, but a day tour is more convenient as it bundles transport, entry, and lunch."
+        }
+      ]
+    },
+    "tours": {
+      "title": "Oceanario Islas del Rosario Tours",
+      "description": "Tours to the Oceanario Islas del Rosario near Cartagena: full-day, snorkel, and private options, and what the packages include.",
+      "card": "Tours",
+      "cardDesc": "Full-day, snorkel, and private tours, and what they include.",
+      "intro": "Tours are the easiest way to visit the Oceanario from Cartagena: they combine boat transport, entry, and activities in one package.",
+      "sections": [
+        {
+          "heading": "Full-day tour",
+          "body": "Includes round-trip boat, aquarium entry, lunch, and beach time. Ideal for short-stay visitors to Cartagena."
+        },
+        {
+          "heading": "Snorkel tour",
+          "body": "Adds snorkel gear and time to explore nearby coral reefs. Recommended for sea lovers."
+        },
+        {
+          "heading": "Private tour",
+          "body": "Private boat with flexible schedule, guide, and custom stops. Good for families or groups."
+        },
+        {
+          "heading": "What packages include",
+          "body": "Varies by agency, but typically transport, entry, and lunch. Always confirm what is included before paying."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What does a tour to the Oceanario include?",
+          "a": "Usually round-trip boat, aquarium entry, and lunch. Some add snorkel or visits to other islands."
+        },
+        {
+          "q": "Is a guided tour worth it?",
+          "a": "Yes if you prefer convenience: the tour coordinates the boat, entry, and return, avoiding arranging each service yourself."
+        },
+        {
+          "q": "Can it be combined with other islands?",
+          "a": "Yes, many tours combine the Oceanario with beaches or snorkeling on other Rosario islands."
+        },
+        {
+          "q": "How much does a tour cost?",
+          "a": "Depends on the agency, season, and inclusions. Compare options in Cartagena and book ahead in high season."
+        }
+      ]
+    },
+    "hours": {
+      "title": "Oceanario Islas del Rosario Opening Hours",
+      "description": "Opening hours of the Oceanario Islas del Rosario near Cartagena, best time to visit, season, and how long the visit takes.",
+      "card": "Opening hours",
+      "cardDesc": "Opening times, best time to visit, and how long to stay.",
+      "intro": "The Oceanario Islas del Rosario opens in the morning. Plan ahead because the boat transfer from Cartagena takes up much of the day.",
+      "sections": [
+        {
+          "heading": "Opening hours",
+          "body": "The aquarium is open from 09:00 to 13:30. We recommend confirming the schedule on the official site before your visit, as it may vary by season or weather."
+        },
+        {
+          "heading": "Best time to go",
+          "body": "Arrive early in the morning. The sea is usually calmer and you'll have plenty of time before the boats depart."
+        },
+        {
+          "heading": "Season",
+          "body": "High season is December–April (calm seas, good visibility). From May to November afternoon rain is possible."
+        },
+        {
+          "heading": "Visit duration",
+          "body": "Allow at least 2–3 hours at the aquarium, plus the boat transfer (45–60 min each way)."
+        }
+      ],
+      "faq": [
+        {
+          "q": "What are the Oceanario's hours?",
+          "a": "Open 09:00–13:30. Confirm on the official site before your visit."
+        },
+        {
+          "q": "Which days is it open?",
+          "a": "Generally open every day in the morning; hours may shift for weather or season. Verify before leaving Cartagena."
+        },
+        {
+          "q": "How long does the visit take?",
+          "a": "About 2–3 hours at the aquarium plus boat transport. Plan a full day if coming from Cartagena."
+        },
+        {
+          "q": "Why is it only open in the morning?",
+          "a": "Because the return boat from the islands is usually scheduled at midday; the morning hours align with boat schedules."
+        }
+      ]
+    }
   }
 }

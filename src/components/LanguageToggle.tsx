@@ -3,6 +3,7 @@
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname, routing } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
+import { TOPIC_SLUGS, TOPIC_ORDER } from '@/lib/topics';
 
 const labels: Record<string, string> = {
   zh: '中文',
@@ -32,10 +33,20 @@ export default function LanguageToggle() {
     
     // Get the current pathname without the locale prefix
     // usePathname() already returns the path without locale prefix in next-intl
-    const currentPath = pathname === '/' ? '' : pathname;
+    const rawPath = pathname === '/' ? '' : pathname;
+    const segment = rawPath.replace(/^\//, '');
+
+    // If we are on a topic page, map the slug to the target locale's slug
+    let targetSegment = segment;
+    for (const key of TOPIC_ORDER) {
+      if (TOPIC_SLUGS[key][locale] === segment) {
+        targetSegment = TOPIC_SLUGS[key][targetLocale];
+        break;
+      }
+    }
     
     // Construct the new path with the target locale
-    const newPath = `/${targetLocale}${currentPath}`;
+    const newPath = `/${targetLocale}${targetSegment ? `/${targetSegment}` : ''}`;
     
     // Use window.location.href for static export compatibility
     window.location.href = newPath;
