@@ -533,6 +533,13 @@
       ]
     }
   },
+  "topicUi": {
+    "facts": "Información básica", "address": "Ubicación", "hours": "Horario de visita", "ticket": "Entrada", "transport": "Cómo llegar", "manager": "Gestión y conservación", "rating": "Calificación de Google Maps", "reviews": "Opiniones de visitantes", "nearby": "Explora lugares cercanos", "map": "Ver mapa y reseñas actuales", "included": "Antes de reservar, confirma qué incluye exactamente la entrada o el tour.",
+    "verify": "Verificar antes de salir", "source": "Fuente", "faq": "Preguntas frecuentes",
+    "transportText": "Llega en lancha reservada desde Cartagena a San Martín de Pajarales. Confirma el muelle de salida, la parada en el Oceanario y el regreso.",
+    "managerText": "El Oceanario es gestionado por el Centro de Investigaciones, Educación y Recreación San Martín (CEINER), dedicado a la investigación, educación y conservación marina."
+  },
+  "nearbyUi": {"title": "Explora islas y playas cercanas", "desc": "Destinos independientes cerca de Cartagena con acceso y mapas propios.", "action": "Explorar lugar"},
   "accessibility": {
     "toggleTheme": "Cambiar tema de color",
     "switchLanguage": "Cambiar idioma",
