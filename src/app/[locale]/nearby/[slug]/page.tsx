@@ -18,6 +18,11 @@ const extraLabels = {
   es: { history: 'Historia y comunidad', landscape: 'Paisaje costero y construcciones', observation: 'Puntos de observación', tips: 'Consejos de visita', guidelines: 'Recomendaciones para visitantes', gallery: 'Fotografías del lugar', route: 'Ruta paso a paso' },
   zh: { history: '历史与社区背景', landscape: '海岸地貌与建筑特色', observation: '观察重点', tips: '游览建议', guidelines: '游览须知', gallery: '景点实景照片', route: '分步骤游览路线' }
 };
+const practical = {
+  en: { rating: 'Rating & reviews', ratingNote: 'See the live Google Maps listing; no unverified score is displayed.', hours: 'Access by confirmed transport arrangement; private services set their own hours.', prices: 'No single combined admission ticket. Boat transport, conservation charges where applicable, meals and private facilities may be charged separately.', intro: 'Explore the place', highlights: 'Top reasons to visit', transportGuide: 'Address and directions', road: 'Arrival point', map: 'Open this place in Google Maps', guide: 'Visit planning', ecology: 'Culture, landscape and experiences' },
+  es: { rating: 'Calificación y opiniones', ratingNote: 'Consulta la ficha actual en Google Maps; no mostramos una puntuación sin verificar.', hours: 'Acceso sujeto al transporte confirmado; cada servicio privado tiene su propio horario.', prices: 'No hay una entrada combinada única. Transporte, tasas de conservación cuando procedan, comidas e instalaciones privadas pueden cobrarse aparte.', intro: 'Descubre el lugar', highlights: 'Razones para visitarlo', transportGuide: 'Dirección y cómo llegar', road: 'Punto de llegada', map: 'Abrir este lugar en Google Maps', guide: 'Planifica tu visita', ecology: 'Cultura, paisaje y experiencias' },
+  zh: { rating: '评分与评价', ratingNote: '请以该景点 Google 地图最新评价为准；不展示未经核实的评分数字。', hours: '按已确认的交通安排进入；私人设施各有营业时间。', prices: '没有统一涵盖所有项目的门票。船只交通、适用的保护区费用、餐饮及私人设施可能分别收费。', intro: '探索景点', highlights: '景区特色', transportGuide: '交通指南与详细地址', road: '抵达地点', map: '在 Google 地图打开该景点', guide: '行前游览建议', ecology: '历史、建筑、文化与核心体验' }
+};
 
 export function generateStaticParams() {
   return locales.flatMap(locale => (Object.keys(nearbyPlaces) as NearbyKey[]).map(slug => ({ locale, slug })));
@@ -47,6 +52,7 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
   const info = place.text[locale as NearbyLocale];
   const t = names[locale as NearbyLocale];
   const extra = extraLabels[locale as NearbyLocale];
+  const p = practical[locale as NearbyLocale];
   const detail = nearbyDetails[slug as NearbyKey][locale as NearbyLocale];
   const self = `${base}/${locale}/nearby/${slug}`;
   const other = (Object.keys(nearbyPlaces) as NearbyKey[]).filter(k => k !== slug);
@@ -76,12 +82,19 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
               <a href={place.mapsUrl} target="_blank" rel="noopener noreferrer" className="rounded-full px-4 py-2" style={{ border: '1px solid var(--accent)', color: 'var(--accent)' }}>{t.maps} ↗</a>
               <span className="rounded-full px-4 py-2" style={{ background: 'var(--bg-tertiary)' }}>{place.location}</span>
             </div>
+            <div className="grid sm:grid-cols-3 gap-3 mt-6">
+              <div className="rounded-xl p-4" style={{ background: 'var(--bg-tertiary)' }}><p className="text-sm font-semibold mb-1">{p.rating}</p><a className="underline text-sm" href={place.mapsUrl} target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }}>{p.map}</a></div>
+              <div className="rounded-xl p-4" style={{ background: 'var(--bg-tertiary)' }}><p className="text-sm font-semibold mb-1">{t.hours}</p><p className="text-sm">{p.hours}</p></div>
+              <div className="rounded-xl p-4" style={{ background: 'var(--bg-tertiary)' }}><p className="text-sm font-semibold mb-1">{t.location}</p><p className="text-sm">{place.location}</p></div>
+            </div>
           </header>
           <figure>
             <img src={place.image} alt={info.title} className="w-full max-h-[480px] object-cover rounded-2xl" />
             <figcaption className="text-xs mt-2" style={{ color: 'var(--text-muted)' }}><a href={place.photoSource} target="_blank" rel="noopener noreferrer" className="underline">{t.sources} ↗</a></figcaption>
           </figure>
-          <p className="text-lg leading-relaxed">{info.introduction}</p>
+          <section className={panel} style={{ background: 'var(--bg-secondary)' }}><h2 className="text-2xl font-semibold mb-3">{p.intro}</h2><p className="text-lg leading-relaxed">{info.introduction}</p></section>
+          <section className={panel} style={{ background: 'var(--bg-tertiary)' }}><h2 className="text-2xl font-semibold mb-3">{p.guide}</h2><ul className="space-y-3 list-disc pl-5">{detail.visitTips.map(tip => <li key={tip}>{tip}</li>)}</ul></section>
+          <section className={panel} style={{ border: '1px solid var(--border-color)' }}><h2 className="text-2xl font-semibold mb-3">{p.highlights}</h2><p className="leading-relaxed">{info.highlights}</p></section>
           <section className={panel} style={{ background: 'var(--bg-tertiary)' }}>
             <h2 className="text-2xl font-semibold mb-3">{t.management}</h2>
             <p className="leading-relaxed mb-3">{detail.about}</p>
@@ -92,18 +105,17 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
             <dl className="grid sm:grid-cols-2 gap-5 text-sm">
               <div><dt className="font-semibold mb-1">{t.location}</dt><dd>{place.location}</dd></div>
               <div><dt className="font-semibold mb-1">{t.access}</dt><dd>{place.access}</dd></div>
-              <div><dt className="font-semibold mb-1">{t.hours}</dt><dd>{t.details}</dd></div>
-              <div><dt className="font-semibold mb-1">{t.fees}</dt><dd>{t.feesText}</dd></div>
+              <div><dt className="font-semibold mb-1">{t.hours}</dt><dd>{p.hours} {t.details}</dd></div>
+              <div><dt className="font-semibold mb-1">{t.fees}</dt><dd>{p.prices} {t.feesText}</dd></div>
+              <div><dt className="font-semibold mb-1">{t.transport}</dt><dd>{info.transport}</dd></div>
+              <div><dt className="font-semibold mb-1">{p.road}</dt><dd>{place.location}</dd></div>
             </dl>
           </section>
-          <section className={panel} style={{ background: 'var(--bg-tertiary)' }}>
-            <h2 className="text-2xl font-semibold mb-4">{extra.tips}</h2>
-            <ul className="space-y-3 list-disc pl-5" style={{ color: 'var(--text-secondary)' }}>
-              {detail.visitTips.map(tip => <li key={tip}>{tip}</li>)}
-            </ul>
-          </section>
+          <section className={panel} style={{ border: '1px solid var(--border-color)' }}><h2 className="text-2xl font-semibold mb-3">{t.hours}</h2><p>{p.hours}</p><p className="mt-2">{t.details}</p></section>
+          <section className={panel} style={{ background: 'var(--bg-tertiary)' }}><h2 className="text-2xl font-semibold mb-3">{t.fees}</h2><p>{p.prices}</p><p className="mt-2">{t.feesText}</p></section>
+          <section className={panel} style={{ border: '1px solid var(--border-color)' }}><h2 className="text-2xl font-semibold mb-3">{t.transport}</h2><p>{info.transport}</p></section>
+          <h2 className="text-2xl font-semibold">{p.ecology}</h2>
           {([
-            [t.transport, info.transport], [t.highlights, info.highlights],
             [extra.history, detail.history], [extra.landscape, detail.landscape],
             [extra.observation, detail.observation], [t.stay, info.stay]
           ] as [string, string][]).map(([heading, body]) => (
@@ -134,6 +146,7 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
           </section>
           <section className={panel} style={{ background: 'var(--bg-tertiary)' }}>
             <h2 className="text-2xl font-semibold mb-3">{t.reviews}</h2>
+            <p className="mb-3">{p.ratingNote}</p>
             <p className="mb-4">{t.current}</p>
             <a className="underline" style={{ color: 'var(--accent)' }} href={place.mapsUrl} target="_blank" rel="noopener noreferrer">{t.maps} ↗</a>
           </section>
@@ -141,6 +154,7 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
             <h2 className="text-2xl font-semibold mb-4">{t.faq}</h2>
             <div className="space-y-5">{info.faq.map(f => <div key={f.q}><h3 className="font-semibold mb-1">{f.q}</h3><p style={{ color: 'var(--text-secondary)' }}>{f.a}</p></div>)}</div>
           </section>
+          <section className={panel} style={{ background: 'var(--bg-tertiary)' }}><h2 className="text-2xl font-semibold mb-3">{p.transportGuide}</h2><p className="mb-3">{place.location}</p><p className="mb-4">{info.transport}</p><a href={place.mapsUrl} target="_blank" rel="noopener noreferrer" className="underline" style={{ color: 'var(--accent)' }}>{p.map} ↗</a></section>
           <section className={panel} style={{ background: 'var(--bg-tertiary)' }}>
             <h2 className="text-2xl font-semibold mb-3">{t.sources}</h2>
             <a href={place.source} target="_blank" rel="noopener noreferrer" className="underline block mb-2" style={{ color: 'var(--accent)' }}>{t.source} ↗</a>
