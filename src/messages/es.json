@@ -486,6 +486,46 @@
           "a": "Porque el retorno en lancha desde las islas suele programarse al mediodía; el horario matutino se alinea con los horarios de los botes."
         }
       ]
+    },
+    "cartagena-aquarium": {
+      "title": "Acuario de Cartagena: guía del Oceanario Islas del Rosario",
+      "description": "Dónde queda el Oceanario cerca de Cartagena, cómo visitarlo en lancha, qué incluye la entrada y qué revisar antes de reservar.",
+      "card": "Acuario de Cartagena",
+      "cardDesc": "Ubicación, traslado a la isla y preparación de la visita.",
+      "intro": "Quienes buscan «acuario Cartagena», «Oceanario Cartagena» o «acuario Islas del Rosario» suelen referirse al Oceanario CEINER. No está en el centro histórico de Cartagena: este centro de conservación marina se encuentra en la isla San Martín de Pajarales.",
+      "sections": [
+        {"heading": "Ubicación y administración", "body": "El Oceanario se encuentra en San Martín de Pajarales, dentro del entorno del Parque Nacional Natural Corales del Rosario y de San Bernardo, frente a Cartagena, Bolívar. El Centro de Investigaciones, Educación y Recreación San Martín (CEINER) desarrolla sus actividades de investigación, educación y conservación.", "source": "https://oceanario.co/quienes-somos/", "sourceLabel": "Oceanario CEINER — Quiénes somos"},
+        {"heading": "Cómo organizar el día", "body": "Sal desde un muelle de Cartagena en una lancha reservada, visita las instalaciones marinas y regresa con el servicio contratado. Comprueba que la embarcación haga parada en San Martín de Pajarales: no todos los recorridos de playa por las islas incluyen el Oceanario. Reserva margen para embarcar y para posibles cambios del estado del mar."},
+        {"heading": "Entradas, muelle y servicios", "body": "Antes de pagar, pide un desglose del transporte de ida y vuelta, la entrada al Oceanario, posibles tasas de muelle o del parque, almuerzo y actividades opcionales. Pueden cobrarse por separado. Consulta las condiciones para menores y la política de cancelación."},
+        {"heading": "Qué observar", "body": "Aprovecha la visita para conocer peces del Caribe, hábitats marinos, tortugas y proyectos de restauración coralina. CEINER publica información sobre investigación y conservación. La disponibilidad de animales y actividades puede variar.", "source": "https://oceanario.co/proyectos-de-investigacion/", "sourceLabel": "Proyectos de investigación CEINER"},
+        {"heading": "Antes de salir de Cartagena", "body": "Confirma el horario vigente, la salida y el regreso de la lancha, las condiciones del mar y la parada en el Oceanario. Lleva protección solar, agua y una funda para los dispositivos electrónicos. Respeta las indicaciones del personal en este entorno marino protegido."}
+      ],
+      "faq": [
+        {"q": "¿El acuario de Cartagena está en la ciudad?", "a": "No. El Oceanario Islas del Rosario se encuentra en San Martín de Pajarales y se llega en lancha desde Cartagena."},
+        {"q": "¿Es lo mismo que Isla Grande?", "a": "No. Isla Grande es otra isla; confirma que tu lancha haga parada en San Martín de Pajarales."},
+        {"q": "¿Todos los tours incluyen el Oceanario?", "a": "No. Pide que la parada y la entrada figuren expresamente en tu reserva."},
+        {"q": "¿Dónde verifico los datos oficiales?", "a": "Consulta oceanario.co y confirma el transporte con la empresa de lanchas."}
+      ]
+    },
+    "marine-life": {
+      "title": "Fauna marina y conservación en el Oceanario Islas del Rosario",
+      "description": "Peces, corales, tortugas, investigación y actividades con delfines: una guía para conocer la conservación marina del Oceanario CEINER.",
+      "card": "Fauna y conservación",
+      "cardDesc": "Peces de arrecife, restauración coralina y consultas sobre delfines.",
+      "intro": "El Oceanario combina la experiencia de visita con investigación y educación sobre el Caribe colombiano. Estos temas ayudan a observar la vida marina con mayor atención y respeto.",
+      "sections": [
+        {"heading": "Peces del Caribe y sus hábitats", "body": "Compara la forma del cuerpo, el movimiento y el hábitat de peces de arrecife y de aguas abiertas. CEINER describe trabajos de investigación y acuicultura marina; las exhibiciones pueden cambiar.", "source": "https://oceanario.co/peces-marinos/", "sourceLabel": "CEINER — Peces marinos"},
+        {"heading": "Restauración de corales", "body": "Los corales son animales vivos que construyen hábitats de arrecife. CEINER documenta proyectos de restauración en las Islas del Rosario. Pregunta por los viveros, el seguimiento y la participación comunitaria.", "source": "https://oceanario.co/restauracion-de-corales/", "sourceLabel": "CEINER — Restauración de corales"},
+        {"heading": "Tiburones, rayas y tortugas", "body": "El centro también trabaja en conservación de elasmobranquios, como tiburones y rayas. Pregunta al guía qué especies se pueden observar ese día y cómo se relacionan con la investigación. La presencia de cada animal no está garantizada.", "source": "https://oceanario.co/elasmobranquios/", "sourceLabel": "CEINER — Elasmobranquios"},
+        {"heading": "Delfines cerca de Cartagena: qué consultar", "body": "Distingue entre una presentación educativa y cualquier experiencia de contacto que pueda venderse aparte. Disponibilidad, edad mínima, reglas y precios pueden cambiar; consulta directamente al Oceanario. No supongas que nadar con delfines esté incluido en la entrada."},
+        {"heading": "Fotografía y visita responsable", "body": "Fotografía desde las zonas permitidas, evita el flash cuando esté prohibido, no alimentes ni toques animales sin autorización y no dejes residuos en el mar. Aprovecha los paneles informativos y las explicaciones del personal."}
+      ],
+      "faq": [
+        {"q": "¿Se pueden ver delfines?", "a": "Aparecen en información sobre el recinto, pero las presentaciones y experiencias específicas no están garantizadas. Consulta la programación con CEINER."},
+        {"q": "¿Está incluido nadar con delfines?", "a": "No lo des por hecho. Pregunta directamente si se ofrece, las condiciones y el precio separado."},
+        {"q": "¿CEINER restaura corales?", "a": "Sí. Sus publicaciones describen proyectos de restauración y conservación marina."},
+        {"q": "¿Qué observar con niños?", "a": "Hábitats, peces de arrecife, conservación de corales y el ecosistema del Caribe colombiano."}
+      ]
     }
   }
 }

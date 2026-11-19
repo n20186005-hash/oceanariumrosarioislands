@@ -488,6 +488,46 @@
           "a": "Because the return boat from the islands is usually scheduled at midday; the morning hours align with boat schedules."
         }
       ]
+    },
+    "cartagena-aquarium": {
+      "title": "Cartagena Aquarium Guide: Oceanario Islas del Rosario",
+      "description": "Looking for the Cartagena aquarium? Learn where Oceanario CEINER is, how its island visit works, what to check before booking, and how to plan the boat trip.",
+      "card": "Cartagena aquarium guide",
+      "cardDesc": "Location, island access and a practical first-visit checklist.",
+      "intro": "Searches for Cartagena aquarium, Acuario Cartagena and Oceanario Cartagena often refer to Oceanario Islas del Rosario (CEINER). It is not a walk-in aquarium in Cartagena's historic center: the marine conservation center is on Isla San Martín de Pajarales in the Rosario Islands.",
+      "sections": [
+        {"heading": "Location and management", "body": "The Oceanario is on Isla San Martín de Pajarales, within the Corales del Rosario y de San Bernardo national natural park area, offshore from Cartagena, Bolívar, Colombia. The Centro de Investigaciones, Educación y Recreación San Martín (CEINER) manages its research, education and conservation work.", "source": "https://oceanario.co/quienes-somos/", "sourceLabel": "Oceanario CEINER — About us"},
+        {"heading": "How the visit fits into a day", "body": "Begin at a Cartagena departure dock, take a prearranged boat to the islands, visit the marine exhibits and return on your booked service. Ask the operator to confirm a stop at San Martín de Pajarales: a generic Rosario Islands beach tour may not include the Oceanario. Allow extra time for boarding and changing sea conditions."},
+        {"heading": "Tickets, pier fees and inclusions", "body": "Before paying, request an itemized quote for the round-trip boat, Oceanario admission, any dock or park-related charges, lunch and optional activities. These can be sold separately. Check the applicable child policy and cancellation terms rather than assuming that all island tours offer the same package."},
+        {"heading": "What to look for", "body": "Use the visit to learn about Caribbean reef fish, marine habitats, turtles and coral restoration work. CEINER describes programs in marine research and conservation. The animals and activities available on a particular date can vary.", "source": "https://oceanario.co/proyectos-de-investigacion/", "sourceLabel": "CEINER research projects"},
+        {"heading": "Before leaving Cartagena", "body": "Verify the current visitor schedule, sailing time, return pier, sea conditions and whether the boat actually calls at the Oceanario. Carry sun protection, drinking water and protection for electronics. Follow staff instructions in the protected marine environment."}
+      ],
+      "faq": [
+        {"q": "Is the Cartagena aquarium in the city?", "a": "No. Oceanario Islas del Rosario is on Isla San Martín de Pajarales, reached by boat from Cartagena."},
+        {"q": "Is the Oceanario the same as Isla Grande?", "a": "No. Isla Grande is a different island; make sure your boat stops at San Martín de Pajarales."},
+        {"q": "Does every Rosario Islands tour include the aquarium?", "a": "No. Ask for the Oceanario stop and admission to be listed explicitly in the booking."},
+        {"q": "Where can I check the operator's information?", "a": "See the Oceanario CEINER website at oceanario.co and confirm transport details with your boat provider."}
+      ]
+    },
+    "marine-life": {
+      "title": "Marine Life & Conservation at Oceanario Rosario Islands",
+      "description": "Explore Oceanario CEINER's marine wildlife, coral restoration and educational conservation work, plus what to verify about dolphin experiences near Cartagena.",
+      "card": "Marine life & conservation",
+      "cardDesc": "Reef species, coral restoration and dolphin-activity questions.",
+      "intro": "The Oceanario combines a visitor experience with research and education about the Colombian Caribbean. This guide highlights what to observe and how to approach wildlife-related activities responsibly.",
+      "sections": [
+        {"heading": "Caribbean reef fish and habitats", "body": "Look for differences in body shape, swimming patterns and habitat between reef fish and open-water species. CEINER describes long-running marine fish research and aquaculture work; exhibits and interpretation may change.", "source": "https://oceanario.co/peces-marinos/", "sourceLabel": "CEINER — Marine fish"},
+        {"heading": "Coral restoration", "body": "Corals are living animals that build important reef habitat. CEINER documents coral-restoration work in the Rosario Islands. During the visit, ask how coral nurseries, monitoring and local stewardship contribute to reef recovery.", "source": "https://oceanario.co/restauracion-de-corales/", "sourceLabel": "CEINER — Coral restoration"},
+        {"heading": "Sharks, rays and sea turtles", "body": "The center's conservation work also involves elasmobranchs such as sharks and rays. Ask guides which species are currently present and how animal welfare and research are managed. Do not assume every animal mentioned in online descriptions will be visible on the day.", "source": "https://oceanario.co/elasmobranquios/", "sourceLabel": "CEINER — Elasmobranchs"},
+        {"heading": "Dolphins near Cartagena: check first", "body": "If you are looking for dolphin-related activities, distinguish watching an educational presentation from any separately sold close-contact experience. Availability, rules, age restrictions and pricing can change; ask the Oceanario directly before booking. Do not assume swimming is included with standard admission."},
+        {"heading": "Photography and responsible visiting", "body": "Photograph from permitted viewing areas, avoid flash where prohibited, never feed or touch animals without explicit staff guidance, and keep all litter out of the sea. Use interpretation signs and staff explanations to understand the animals rather than relying on staged-photo expectations."}
+      ],
+      "faq": [
+        {"q": "Can I see dolphins at the Oceanario?", "a": "Dolphins are mentioned in visitor information, but specific presentations and close-contact activities are not guaranteed. Confirm the current program with CEINER."},
+        {"q": "Is swimming with dolphins included?", "a": "Do not assume so. Ask the Oceanario directly about whether an activity is offered, its rules and its separate price."},
+        {"q": "Does CEINER work on coral conservation?", "a": "Yes. Its published research pages describe coral restoration and other marine conservation projects."},
+        {"q": "What should families focus on?", "a": "Marine habitats, reef fish, coral conservation and questions for guides about the Colombian Caribbean ecosystem."}
+      ]
     }
   }
 }

@@ -105,6 +105,11 @@ export default async function TopicPage({
                 <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
                   {s.body}
                 </p>
+                {s.source && (
+                  <a href={s.source} target="_blank" rel="noopener noreferrer" className="inline-block mt-3 text-sm underline underline-offset-4" style={{ color: 'var(--accent)' }}>
+                    {s.sourceLabel || 'Source'} ↗
+                  </a>
+                )}
               </div>
             ))}
           </div>
