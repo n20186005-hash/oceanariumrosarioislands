@@ -528,6 +528,13 @@
       ]
     }
   },
+  "topicUi": {
+    "facts": "基本信息", "address": "所在地", "hours": "参观时间", "ticket": "门票费用", "transport": "交通方式", "manager": "管理主体与海洋保育", "rating": "Google 地图游客评分", "reviews": "游客评价", "nearby": "探索周边景点", "map": "查看地图及最新评价", "included": "预订前应核对所选门票或旅行团具体包含哪些项目。",
+    "verify": "出发前核实", "source": "资料来源", "faq": "常见问答",
+    "transportText": "从卡塔赫纳预约船只前往圣马丁德帕哈拉莱斯岛。请确认出发码头、海洋馆停靠及返程时间。",
+    "managerText": "海洋馆由圣马丁研究、教育与休闲中心（CEINER）运营，在罗萨里奥群岛开展海洋研究、教育与保育工作。"
+  },
+  "nearbyUi": {"title": "探索周边岛屿与海滩", "desc": "卡塔赫纳周边可独立游览的地点，每篇均有自己的交通资料和地图位置。", "action": "查看景点"},
   "accessibility": {
     "toggleTheme": "切换页面主题",
     "switchLanguage": "切换语言",
