@@ -533,6 +533,13 @@
       ]
     }
   },
+  "topicUi": {
+    "facts": "Essential information", "address": "Location", "hours": "Visitor hours", "ticket": "Admission", "transport": "Getting there", "manager": "Management and conservation", "rating": "Google Maps visitor rating", "reviews": "Visitor reviews", "nearby": "Explore nearby places", "map": "See map and latest reviews", "included": "Before booking, confirm what is included in your chosen ticket or tour.",
+    "verify": "Verify before departure", "source": "Source", "faq": "Frequently asked questions",
+    "transportText": "Travel by prearranged boat from Cartagena to San Martín de Pajarales. Confirm the exact departure pier, Oceanario stop and return sailing.",
+    "managerText": "The Oceanario is operated by Centro de Investigaciones, Educación y Recreación San Martín (CEINER), which conducts research, education and marine-conservation work in the Rosario Islands."
+  },
+  "nearbyUi": {"title": "Explore nearby islands and beaches", "desc": "Distinct destinations around Cartagena, with their own access information and map locations.", "action": "Explore place"},
   "accessibility": {
     "toggleTheme": "Switch color theme",
     "switchLanguage": "Change language",
