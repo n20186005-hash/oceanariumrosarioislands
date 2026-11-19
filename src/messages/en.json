@@ -28,7 +28,8 @@
       "items": [
         "🚢 Transportation: Take a speedboat from Cartagena pier, about 45-60 minutes to the Rosario Islands. It is recommended to book boat tickets in advance or join a day tour.",
         "🧴 Sun Protection: The Caribbean region has strong sunlight. Please bring sunscreen, hat, and sunglasses to protect your skin from UV damage.",
-        "💧 Stay Hydrated: Tropical climate is hot and humid. Please bring enough drinking water to avoid heatstroke and dehydration."
+        "💧 Stay Hydrated: Tropical climate is hot and humid. Please bring enough drinking water to avoid heatstroke and dehydration.",
+        "♻️ Respect the marine habitat: Follow staff guidance, avoid touching animals or corals, and take all litter back with you."
       ]
     },
     "alsoKnownAs": {
@@ -529,5 +530,13 @@
         {"q": "What should families focus on?", "a": "Marine habitats, reef fish, coral conservation and questions for guides about the Colombian Caribbean ecosystem."}
       ]
     }
+  },
+  "accessibility": {
+    "toggleTheme": "Switch color theme",
+    "switchLanguage": "Change language",
+    "photo": "Oceanario photograph",
+    "closePhoto": "Close photograph",
+    "previousPhoto": "Previous photograph",
+    "nextPhoto": "Next photograph"
   }
 }

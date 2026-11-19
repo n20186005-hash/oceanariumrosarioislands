@@ -28,7 +28,8 @@
       "items": [
         "🚢 Transporte: Tome una lancha rápida desde el muelle de Cartagena, aproximadamente 45-60 minutos a las Islas del Rosario. Se recomienda reservar boletos de barco con anticipación o unirse a un tour de un día.",
         "🧴 Protección Solar: La región del Caribe tiene luz solar fuerte. Por favor traiga protector solar, sombrero y gafas de sol para proteger su piel de los daños UV.",
-        "💧 Manténgase Hidratado: El clima tropical es caliente y húmedo. Por favor traiga suficiente agua potable para evitar insolación y deshidratación."
+        "💧 Manténgase Hidratado: El clima tropical es caliente y húmedo. Por favor traiga suficiente agua potable para evitar insolación y deshidratación.",
+        "♻️ Respeta el entorno marino: Sigue las indicaciones del personal, no toques animales ni corales y retira todos tus residuos."
       ]
     },
     "alsoKnownAs": {
@@ -86,7 +87,8 @@
     "students": "Consejos de Visita",
     "studentsPrice": "Reserve 3-4 horas para la visita, puede combinar con paquete de tour de un día",
     "card": "Actividades Cercanas",
-    "cardPrice": "Snorkel, relajación en playa, exploración de islas. 👉 [Ir a Islas del Rosario]",
+    "cardPrice": "Snorkel, descanso en la playa y exploración de las islas del Rosario.",
+    "ctaButton": "Consultar entradas en el sitio oficial",
     "officialNotice": "Se recomienda reservar entradas en línea con anticipación, especialmente durante la temporada alta de turismo. Para más detalles, visite",
     "officialNoticeLinkLabel": "Sitio Web Oficial del Oceanario Islas del Rosario",
     "officialNoticeLink": "https://oceanario.co/"
@@ -104,7 +106,8 @@
     "cycling": "Otros Consejos",
     "cyclingDesc": "Considere unirse a un paquete de tour de un día que incluye transporte, entradas y almuerzo para mayor conveniencia.",
     "tips": "Consejos de Viaje",
-    "tipsDesc": "Parta por la mañana para evitar chubascos de la tarde. Traiga protector solar, traje de baño y toallas para actividades de playa y snorkel."
+    "tipsDesc": "Parta por la mañana para evitar chubascos de la tarde. Traiga protector solar, traje de baño y toallas para actividades de playa y snorkel.",
+    "ctaButton": "Consultar salidas de embarcaciones"
   },
   "gallery": {
     "title": "Fotos Impresionantes",
@@ -527,5 +530,13 @@
         {"q": "¿Qué observar con niños?", "a": "Hábitats, peces de arrecife, conservación de corales y el ecosistema del Caribe colombiano."}
       ]
     }
+  },
+  "accessibility": {
+    "toggleTheme": "Cambiar tema de color",
+    "switchLanguage": "Cambiar idioma",
+    "photo": "Fotografía del Oceanario",
+    "closePhoto": "Cerrar fotografía",
+    "previousPhoto": "Fotografía anterior",
+    "nextPhoto": "Fotografía siguiente"
   }
 }

@@ -525,5 +525,13 @@
         {"q": "亲子游览重点是什么？", "a": "适合观察海洋栖地、珊瑚礁鱼类，以及了解珊瑚保育和加勒比海生态。"}
       ]
     }
+  },
+  "accessibility": {
+    "toggleTheme": "切换页面主题",
+    "switchLanguage": "切换语言",
+    "photo": "海洋馆实景照片",
+    "closePhoto": "关闭照片",
+    "previousPhoto": "上一张照片",
+    "nextPhoto": "下一张照片"
   }
 }

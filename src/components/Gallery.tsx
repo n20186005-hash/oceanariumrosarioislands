@@ -25,13 +25,14 @@ const photoFiles = [
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const a11y = useTranslations('accessibility');
   const captions = t.raw('captions') as string[];
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Oceanarium Rosario Islands ${i + 1}`,
+    alt: captions?.[i] || `${a11y('photo')} ${i + 1}`,
   }));
 
   const visiblePhotos = photos;
@@ -110,7 +111,7 @@ export default function Gallery() {
           <button
             onClick={closeLightbox}
             className="absolute top-4 right-4 w-10 h-10 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Close lightbox"
+            aria-label={a11y('closePhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <line x1="18" y1="6" x2="6" y2="18" />
@@ -121,7 +122,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToPrevious(); }}
             className="absolute left-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Previous photo"
+            aria-label={a11y('previousPhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="15 18 9 12 15 6" />
@@ -138,7 +139,7 @@ export default function Gallery() {
           <button
             onClick={(e) => { e.stopPropagation(); goToNext(); }}
             className="absolute right-4 w-12 h-12 bg-white/20 hover:bg-white/30 rounded-full flex items-center justify-center transition-colors"
-            aria-label="Next photo"
+            aria-label={a11y('nextPhoto')}
           >
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
               <polyline points="9 18 15 12 9 6" />

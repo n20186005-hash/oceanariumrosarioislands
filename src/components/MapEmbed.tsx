@@ -33,7 +33,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Oceanarium Rosario Islands"
+            title={t('title')}
           />
         </div>
 

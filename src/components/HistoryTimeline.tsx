@@ -50,10 +50,7 @@ export default function HistoryTimeline() {
           <h4 className="text-lg font-bold mb-3 flex items-center gap-2" style={{ color: 'var(--text-primary)' }}>
             💡 {t('guideTitle')}
           </h4>
-          <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }} dangerouslySetInnerHTML={{
-            __html: t('guideContent')
-              .replace(/\*\*(.*?)\*\*/g, '<strong style="color: var(--text-primary)">$1</strong>')
-          }} />
+          <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{t('guideContent')}</p>
         </div>
       </div>
     </section>
