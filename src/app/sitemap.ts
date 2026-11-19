@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { TOPIC_ORDER, TOPIC_SLUGS } from '@/lib/topics';
+import { nearbyPlaces } from '@/lib/nearby';
 
 export const dynamic = 'force-static';
 
@@ -26,6 +27,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: new Date(),
         changeFrequency: 'monthly',
         priority: 0.7,
+      });
+    }
+    for (const slug of Object.keys(nearbyPlaces)) {
+      sitemap.push({
+        url: `${baseUrl}/${locale}/nearby/${slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.65,
       });
     }
   }
