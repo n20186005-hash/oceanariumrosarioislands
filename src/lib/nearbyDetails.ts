@@ -109,19 +109,41 @@ const management = {
   zh: { coastal: '公共海岸与海事主管部门负责适用的通行、环境保护和安全规则；船只、设施及住宿由不同经营者管理。', fort: '这处防御工事属于卡塔赫纳历史海防体系，受哥伦比亚文化遗产保护制度及当地参观管理安排约束。' }
 };
 
+const localRoute = {
+  en: { arrival: 'Arrival and orientation', explore: 'Walk the permitted area', observe: 'Pause to observe', photo: 'Choose a safe photograph point', return: 'Return to your agreed pickup' },
+  es: { arrival: 'Llegada y orientación', explore: 'Recorre la zona permitida', observe: 'Detente a observar', photo: 'Busca un punto seguro para fotografías', return: 'Regresa al transporte acordado' },
+  zh: { arrival: '抵达与方向确认', explore: '步行游览开放区域', observe: '观察重点', photo: '选择安全拍摄位置', return: '返回约定接驳点' }
+};
+const photoLabels = {
+  en: ['Main viewpoint', 'Landscape and built features', 'Details to observe'],
+  es: ['Vista principal', 'Paisaje y construcciones', 'Detalles para observar'],
+  zh: ['主要取景点', '地貌与建筑', '观察细节']
+};
+
 const extraDetails = Object.fromEntries(Object.entries(extraNearbyDescriptions).map(([key, place]) => [key, Object.fromEntries((['en', 'es', 'zh'] as NearbyLocale[]).map(locale => {
   const d = place.text[locale];
   const isFort = key.startsWith('fuerte-') || key.startsWith('bateria-');
   const note = management[locale][isFort ? 'fort' : 'coastal'];
-  const steps = d.route.split(/(?<=[.!。])\s+/).filter(Boolean);
+  const labels = localRoute[locale];
+  const photoTitles = photoLabels[locale];
   return [locale, {
     about: `${note} ${d.intro}`,
     history: d.history,
     landscape: d.landscape,
     observation: d.observe,
-    visitTips: [d.transport, d.observe, d.stay],
-    routeSteps: steps.length > 1 ? steps : [d.transport, d.route, d.observe, d.photo],
-    photoSpots: [{ title: d.title, detail: d.photo }, { title: d.tagline, detail: d.landscape }],
+    visitTips: [d.transport, d.stay, d.observe],
+    routeSteps: [
+      `${labels.arrival}: ${d.transport}`,
+      `${labels.explore}: ${d.route}`,
+      `${labels.observe}: ${d.observe}`,
+      `${labels.photo}: ${d.photo}`,
+      `${labels.return}: ${locale === 'zh' ? '按事先约定时间返回原来的码头或车辆集合点。' : locale === 'es' ? 'Vuelve al muelle o vehículo pactado con margen suficiente para el embarque.' : 'Leave enough time to reach your originally agreed boat or vehicle pickup point.'}`
+    ],
+    photoSpots: [
+      { title: `${d.title} · ${photoTitles[0]}`, detail: d.photo },
+      { title: photoTitles[1], detail: d.landscape },
+      { title: photoTitles[2], detail: d.observe }
+    ],
     notes: [d.transport, d.observe, note]
   } satisfies Detail];
 }))])) as Record<ExtraNearbyKey, Record<NearbyLocale, Detail>>;

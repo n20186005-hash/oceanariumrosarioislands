@@ -103,7 +103,7 @@ export default async function NearbyPage({ params }: { params: Promise<{ locale:
             <h2 className="text-2xl font-semibold mb-5">{t.facts}</h2>
             <dl className="grid sm:grid-cols-2 gap-5 text-sm">
               <div><dt className="font-semibold mb-1">{t.location}</dt><dd>{place.location}</dd></div>
-              <div><dt className="font-semibold mb-1">{t.access}</dt><dd>{place.access}</dd></div>
+              <div><dt className="font-semibold mb-1">{t.access}</dt><dd>{locale === 'en' ? place.access : info.transport}</dd></div>
               <div><dt className="font-semibold mb-1">{t.hours}</dt><dd>{p.hours} {t.details}</dd></div>
               <div><dt className="font-semibold mb-1">{t.fees}</dt><dd>{p.prices} {t.feesText}</dd></div>
               <div><dt className="font-semibold mb-1">{t.transport}</dt><dd>{info.transport}</dd></div>
