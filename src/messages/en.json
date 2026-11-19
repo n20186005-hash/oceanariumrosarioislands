@@ -5,6 +5,7 @@
   },
   "header": {
     "siteName": "Oceanarium Rosario Islands",
+    "nearby": "Nearby places",
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
@@ -18,7 +19,8 @@
     "reviewCount": "12,376",
     "ratingNote": "Google · verified October 2026",
     "hours": "Aquarium / Marine Research Center / Eco-Tourism",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "nearby": "Explore 11 nearby places"
   },
   "intro": {
     "title": "Explore Oceanarium Rosario Islands",

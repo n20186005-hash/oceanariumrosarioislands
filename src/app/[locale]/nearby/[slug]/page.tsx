@@ -27,7 +27,6 @@ const practical = {
 export function generateStaticParams() {
   return locales.flatMap(locale => (Object.keys(nearbyPlaces) as NearbyKey[]).map(slug => ({ locale, slug })));
 }
-export const dynamicParams = false;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
   const { locale, slug } = await params;

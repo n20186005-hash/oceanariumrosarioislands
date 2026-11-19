@@ -1,6 +1,7 @@
 import type { NearbyKey, NearbyLocale } from './nearby';
+import { extraNearbyDescriptions, type ExtraNearbyKey } from './nearbyExtensions';
 
-type Detail = {
+export type Detail = {
   about: string;
   history: string;
   landscape: string;
@@ -11,7 +12,7 @@ type Detail = {
   notes: string[];
 };
 
-export const nearbyDetails: Record<NearbyKey, Record<NearbyLocale, Detail>> = {
+const primaryDetails = {
   'isla-grande': {
     en: {
       about: 'Isla Grande is part of the protected Rosario and San Bernardo coral-island landscape administered by Parques Nacionales Naturales de Colombia. The Afro-Colombian community of Orika has its own community council and plays a significant role in local life and community-based tourism. Public conservation rules and the operation of individual lodging, piers and excursions are different responsibilities. The island is best understood as a living coastal community with mangroves, dry tropical vegetation and small-scale visitor services—not simply as an extension of the Oceanario.',
@@ -101,3 +102,28 @@ export const nearbyDetails: Record<NearbyKey, Record<NearbyLocale, Detail>> = {
     }
   }
 };
+
+const management = {
+  en: { coastal: 'Public coastal and maritime authorities set applicable access, environmental and safety rules. Individual boats, facilities and accommodations have separate operators.', fort: 'The fortification is part of Cartagena’s historic coastal defense landscape, subject to Colombian cultural-heritage protections and local visitor-access arrangements.' },
+  es: { coastal: 'Las autoridades costeras y marítimas regulan el acceso, la protección ambiental y la seguridad. Embarcaciones, instalaciones y alojamientos tienen operadores distintos.', fort: 'La fortificación pertenece al paisaje defensivo histórico de Cartagena, bajo la protección del patrimonio cultural colombiano y las condiciones locales de acceso.' },
+  zh: { coastal: '公共海岸与海事主管部门负责适用的通行、环境保护和安全规则；船只、设施及住宿由不同经营者管理。', fort: '这处防御工事属于卡塔赫纳历史海防体系，受哥伦比亚文化遗产保护制度及当地参观管理安排约束。' }
+};
+
+const extraDetails = Object.fromEntries(Object.entries(extraNearbyDescriptions).map(([key, place]) => [key, Object.fromEntries((['en', 'es', 'zh'] as NearbyLocale[]).map(locale => {
+  const d = place.text[locale];
+  const isFort = key.startsWith('fuerte-') || key.startsWith('bateria-');
+  const note = management[locale][isFort ? 'fort' : 'coastal'];
+  const steps = d.route.split(/(?<=[.!。])\s+/).filter(Boolean);
+  return [locale, {
+    about: `${note} ${d.intro}`,
+    history: d.history,
+    landscape: d.landscape,
+    observation: d.observe,
+    visitTips: [d.transport, d.observe, d.stay],
+    routeSteps: steps.length > 1 ? steps : [d.transport, d.route, d.observe, d.photo],
+    photoSpots: [{ title: d.title, detail: d.photo }, { title: d.tagline, detail: d.landscape }],
+    notes: [d.transport, d.observe, note]
+  } satisfies Detail];
+}))])) as Record<ExtraNearbyKey, Record<NearbyLocale, Detail>>;
+
+export const nearbyDetails: Record<NearbyKey, Record<NearbyLocale, Detail>> = { ...primaryDetails, ...extraDetails };

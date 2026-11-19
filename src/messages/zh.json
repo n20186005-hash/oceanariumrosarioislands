@@ -5,6 +5,7 @@
   },
   "header": {
     "siteName": "罗萨里奥群岛水族馆",
+    "nearby": "周边景点",
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
@@ -18,7 +19,8 @@
     "reviewCount": "12,376",
     "ratingNote": "Google · 2026年10月核实",
     "hours": "生态旅游 · 海洋研究 · 亲子精选",
-    "openMaps": "查看位置"
+    "openMaps": "查看位置",
+    "nearby": "探索 11 个周边景点"
   },
   "intro": {
     "title": "探索露天海洋奇观",

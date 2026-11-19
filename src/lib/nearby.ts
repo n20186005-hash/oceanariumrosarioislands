@@ -1,7 +1,9 @@
-export type NearbyKey = 'isla-grande' | 'playa-blanca-baru';
+import { extraNearbyPlaces, type ExtraNearbyKey } from './nearbyExtensions';
+
+export type NearbyKey = 'isla-grande' | 'playa-blanca-baru' | ExtraNearbyKey;
 export type NearbyLocale = 'zh' | 'en' | 'es';
 
-type LocalText = {
+export type LocalText = {
   title: string;
   tagline: string;
   introduction: string;
@@ -14,7 +16,7 @@ type LocalText = {
   faq: { q: string; a: string }[];
 };
 
-export const nearbyPlaces: Record<NearbyKey, {
+export type NearbyPlace = {
   image: string;
   photoSource: string;
   mapsUrl: string;
@@ -23,7 +25,9 @@ export const nearbyPlaces: Record<NearbyKey, {
   source: string;
   access: string;
   text: Record<NearbyLocale, LocalText>;
-}> = {
+};
+
+export const nearbyPlaces: Record<NearbyKey, NearbyPlace> = {
   'isla-grande': {
     image: '/gallery/nearby-isla-grande.jpg',
     photoSource: 'https://commons.wikimedia.org/wiki/File:Cocolise_Isla_Resort,_Islas_del_Rosario_(23938738774).jpg',
@@ -141,5 +145,6 @@ export const nearbyPlaces: Record<NearbyKey, {
         ]
       }
     }
-  }
+  },
+  ...extraNearbyPlaces
 };

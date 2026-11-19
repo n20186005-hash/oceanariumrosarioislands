@@ -5,6 +5,7 @@
   },
   "header": {
     "siteName": "Oceanario Islas del Rosario",
+    "nearby": "Lugares cercanos",
     "home": "Inicio",
     "gallery": "Galería",
     "reviews": "Reseñas",
@@ -18,7 +19,8 @@
     "reviewCount": "12,376",
     "ratingNote": "Google · verificado octubre 2026",
     "hours": "Acuario / Centro de Investigación Marina / Eco-turismo",
-    "openMaps": "Ver Ubicación"
+    "openMaps": "Ver Ubicación",
+    "nearby": "Explorar 11 lugares cercanos"
   },
   "intro": {
     "title": "Explora el Oceanario Islas del Rosario",

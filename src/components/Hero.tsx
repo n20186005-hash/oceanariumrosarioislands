@@ -54,6 +54,9 @@ export default function Hero() {
               </svg>
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
+            <a href="#nearby" className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors">
+              <span className="text-white text-sm">{t('nearby')}</span>
+            </a>
           </div>
 
           {t.has('ratingNote') && (
