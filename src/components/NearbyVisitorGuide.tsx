@@ -2,7 +2,7 @@ import type { ReactNode } from 'react';
 import Header from './Header';
 import Footer from './Footer';
 import type { NearbyLocale } from '@/lib/nearby';
-import { portPlaces, type PortSlug } from '@/lib/portPlaces';
+import { visitorGuide, type GuideSlug } from '@/lib/visitorGuide';
 
 const labels = {
   en: {
@@ -50,29 +50,34 @@ function Detail({ title, children }: { title: string; children: ReactNode }) {
   return <div><h3 className="text-lg font-semibold mb-1">{title}</h3><p>{children}</p></div>;
 }
 
-export default function PortPlacePage({ slug, locale }: { slug: PortSlug; locale: NearbyLocale }) {
-  const p = portPlaces[slug];
-  const c = p.copy[locale];
+export default function NearbyVisitorGuide({ slug, locale }: { slug: GuideSlug; locale: NearbyLocale }) {
+  const p = visitorGuide(slug,locale);
+  const c = p.c;
   const w = labels[locale];
-  const map = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(p.address);
+  const map = p.map;
   const url = 'https://www.oceanariumrosarioislands.com';
   const titleWith = (label: string) => label + (locale === 'zh' ? '' : ' ') + c.title;
-  const types: Record<string, string> = { boat: w.boat, castle: w.castle, wall: w.wallType, naval: w.naval, history: w.historyType, claver: w.claver, zenu: w.zenu, aviary: w.aviary };
+  const types: Record<string, string> = { boat: w.boat, castle: w.castle, wall: w.wallType, naval: w.naval, history: w.historyType, claver: w.claver, zenu: w.zenu, aviary: w.aviary, island: { en:'Inhabited island or island retreat', es:'Isla habitada o isla de estancia', zh:'居民岛或海岛游览区' }[locale], bay: { en:'Lagoon and anchorage',es:'Ciénaga y fondeadero',zh:'潟湖与停泊区' }[locale], beach: { en:'Coastal beach sector',es:'Sector de playa',zh:'沿岸沙滩区' }[locale], heritage:w.wallType };
   const schema = {
     '@context': 'https://schema.org',
     '@graph': [
-      { '@type': 'TouristAttraction', name: c.title, description: c.subtitle, image: url + p.image, hasMap: map, url: url + '/' + locale + '/nearby/' + slug, address: p.address },
+      { '@type': 'TouristAttraction', name: c.title, description: c.subtitle, image: p.image.startsWith('/') ? url + p.image : p.image, hasMap: map, url: url + '/' + locale + '/nearby/' + slug, address: p.address },
+      { '@type':'BreadcrumbList', itemListElement:[
+        { '@type':'ListItem', position:1, name:'Oceanarium Rosario Islands', item:url+'/'+locale },
+        { '@type':'ListItem', position:2, name:w.home, item:url+'/'+locale+'#nearby' },
+        { '@type':'ListItem', position:3, name:c.title, item:url+'/'+locale+'/nearby/'+slug },
+      ]},
       { '@type': 'FAQPage', mainEntity: c.faq.map(([q,a]) => ({ '@type':'Question', name:q, acceptedAnswer:{ '@type':'Answer', text:a } })) },
     ],
   };
   const link = 'underline underline-offset-4 decoration-1';
   const managerLabel = { en: 'Management', es: 'Responsable', zh: '管理主体' }[locale];
-  const facts = [[w.name, p.copy.es.title], [w.address, p.address], [w.kind, types[p.group]], [managerLabel, p.authority], [w.duration, c.duration], [w.conditions, c.conditions]];
+  const facts = [[w.name, p.localName], [w.address, p.entrance], [w.kind, types[p.group]], [managerLabel, p.authority], [w.duration, c.duration], [w.conditions, c.conditions], [w.hours, c.hours], [w.fees, c.fees], [w.transport, c.transport]];
   function sourceLabel(source: string) {
     if (source.includes('bienes-administrados')) return w.inventory;
     if (source.includes('/historia/') || source.includes('/destination/')) return w.context;
     if (source.includes('murallas-de-cartagena')) return w.wall;
-    if (source.endsWith('.pdf')) return w.tariff;
+    if (source.includes('POLITICA-TARIFA')) return w.tariff;
     return w.visitor;
   }
   return <>
@@ -81,17 +86,25 @@ export default function PortPlacePage({ slug, locale }: { slug: PortSlug; locale
       <article className="max-w-5xl mx-auto px-4 sm:px-6 space-y-6 leading-relaxed" style={{ color: 'var(--text-primary)' }}>
         <script type="application/ld+json" dangerouslySetInnerHTML={{__html: JSON.stringify(schema).replace(/</g, '\\u003c')}}/>
         <nav><a className={link} href={'/'+locale+'#nearby'}>{w.home}</a></nav>
-        <header className="space-y-4 pb-4">
-          <h1 className="font-display text-4xl sm:text-5xl font-bold">{c.title}</h1>
-          <p className="max-w-3xl text-lg">{c.subtitle}</p>
-          <p><strong>{w.hours}</strong> · {c.hours.split(/(?<=[.!?。])\s*/u)[0]}</p>
-          <div className="flex flex-wrap gap-x-6 gap-y-2"><a href={map} className={link}>{w.map} ↗</a><a className={link} href="#reviews">{w.reviews}</a></div>
+        <header className="overflow-hidden rounded-2xl" style={{background:'var(--bg-secondary)'}}>
+          <div className="grid md:grid-cols-[1.1fr_1fr] items-stretch">
+            <div className="p-6 sm:p-8 space-y-4">
+              <h1 className="font-display text-4xl sm:text-5xl font-bold">{c.title}</h1>
+              <p className="text-lg">{c.subtitle}</p>
+              <a className={link} href={map}>{w.openReviews} ↗</a>
+              <p><strong>{w.hours}</strong> · {c.hours.split(/(?<=[.!?。])\s*/u)[0]}</p>
+              <p>{p.entrance}</p><a href={map} className={link}>{w.map} ↗</a>
+            </div>
+            <a href="#photograph" className="block self-stretch">
+              <img src={p.image} alt={c.caption} fetchPriority="high" className="w-full h-52 md:h-full md:max-h-[440px] object-cover"/>
+            </a>
+          </div>
         </header>
-        <Section id="explore" title={titleWith(w.explore)}>
-          <p>{c.scene}</p>
-          <div><h3 className="text-lg font-semibold mb-1">{titleWith(w.about)}</h3><p>{c.manager}</p><p className="mt-2">{c.about}</p></div>
-          <Detail title={w.advice}>{c.advice}</Detail><Detail title={w.features}>{c.feature}</Detail>
+        <Section id="explore" title={titleWith(w.explore)}>{p.introductions.map(txt=><p key={txt}>{txt}</p>)}
+          <div id="visit-advice"><h3 className="text-lg font-semibold mb-2">{w.advice}</h3>{p.advice.map(tip=><p key={tip} className="mb-2">{tip}</p>)}</div>
+          <div id="features"><h3 className="text-lg font-semibold mb-2">{w.features}</h3>{p.features.map(txt=><p key={txt}>{txt}</p>)}</div>
         </Section>
+        <Section id="about" title={titleWith(w.about)}><p>{c.manager}</p><p>{c.about}</p></Section>
         <Section id="basics" title={w.basic}><dl className="divide-y" style={{ borderColor: 'var(--border-color)' }}>
           {facts.map(([label,value])=><div key={label} className="grid gap-1 py-3 sm:grid-cols-[12rem_1fr]"><dt className="font-semibold">{label}</dt><dd>{value}</dd></div>)}
         </dl></Section>
@@ -99,17 +112,18 @@ export default function PortPlacePage({ slug, locale }: { slug: PortSlug; locale
         <Section id="fees" title={w.fees}><p>{c.fees}</p></Section>
         <Section id="transport" title={w.transport}><p>{c.transport}</p></Section>
         <Section id="discover" title={w.discover}>
-          <Detail title={w.history}>{c.history}</Detail><Detail title={w.architecture}>{c.architecture}</Detail>
-          <Detail title={w.culture}>{c.culture}</Detail><Detail title={w.experience}>{c.experience}</Detail>
+          <div><h3 className="text-lg font-semibold mb-1">{w.history}</h3><p>{c.history}</p>{p.historicalDetail && <p className="mt-2">{p.historicalDetail}</p>}</div><Detail title={w.architecture}>{c.architecture}</Detail>
+          <Detail title={w.culture}>{c.culture}</Detail><div><h3 className="text-lg font-semibold mb-1">{w.experience}</h3><p>{c.experience}</p>{p.observation && <p className="mt-2">{p.observation}</p>}</div>
         </Section>
-        <Section id="route" title={w.route}><ol className="list-decimal pl-6 space-y-3">{c.route.map(step=><li key={step}>{step}</li>)}</ol><Detail title={w.notice}>{c.notice}</Detail></Section>
-        <Section id="photo-spots" title={w.photo}><ul className="list-disc pl-6 space-y-3">{c.photo.map(spot=><li key={spot}>{spot}</li>)}</ul></Section>
-        <Section id="lodging" title={w.stay}>{c.stay.map(area=><p key={area}>{area}</p>)}</Section>
+        <Section id="route" title={w.route}>{p.routeIntro && <p>{p.routeIntro}</p>}<ol className="list-decimal pl-6 space-y-3">{c.route.map(step=><li key={step}>{step}</li>)}</ol></Section>
+        <Section id="guidelines" title={w.notice}>{p.notices.map(note=><p key={note}>{note}</p>)}</Section>
+        <Section id="photo-spots" title={w.photo}><ul className="list-disc pl-6 space-y-3">{c.photo.map(spot=><li key={spot}>{spot}</li>)}</ul>{p.additionalPhotos.map(txt=><p key={txt}>{txt}</p>)}</Section>
         <Section id="photograph" title={w.gallery}><figure><img src={p.image} alt={c.caption} loading="lazy" className="w-full max-h-[480px] object-contain rounded-2xl"/><figcaption className="text-sm mt-3">{c.caption} <a href={p.photoSource} className={link}>{w.photoSource} ↗</a></figcaption></figure></Section>
+        <Section id="lodging" title={w.stay}>{p.stayIntro && <p>{p.stayIntro}</p>}{c.stay.map(area=><p key={area}>{area}</p>)}</Section>
         <Section id="reviews" title={w.reviews}><a href={map} className={link}>{w.openReviews} · {c.title} ↗</a></Section>
-        <Section id="directions" title={w.directions}><address className="not-italic">{p.address}</address><a href={map} className={link}>{w.map} · {p.copy.es.title} ↗</a></Section>
+        <Section id="directions" title={w.directions}><address className="not-italic">{p.address}</address>{p.entrance !== p.address && <p>{p.entrance}</p>}<a href={map} className={link}>{w.map} · {p.localName} ↗</a></Section>
         <Section id="faq" title={w.faq}><dl className="space-y-4">{c.faq.map(([q,a])=><div key={q}><dt className="font-semibold">{q}</dt><dd className="mt-1">{a}</dd></div>)}</dl></Section>
-        <Section id="related" title={w.related}><nav className="flex flex-wrap gap-x-6 gap-y-2"><a className={link} href={'/'+locale+'#nearby'}>{w.home}</a>{p.related.map(key=><a className={link} key={key} href={'/'+locale+'/nearby/'+key}>{portPlaces[key as PortSlug].copy[locale].title}</a>)}</nav></Section>
+        <Section id="related" title={w.related}><nav className="flex flex-wrap gap-x-6 gap-y-2"><a className={link} href={'/'+locale+'#nearby'}>{w.home}</a>{p.related.map(item=><a className={'inline-flex items-center gap-2 '+link} key={item.slug} href={'/'+locale+'/nearby/'+item.slug}>{item.image && <img src={item.image} alt="" loading="lazy" className="w-20 h-14 object-cover rounded-lg"/>}{item.title}</a>)}</nav></Section>
         <Section id="sources" title={w.sources}><time dateTime="2026-11-24">{w.checked}</time><ul className="space-y-2">{p.sources.map(s=><li key={s}><a href={s} className={link}>{sourceLabel(s)} · {new URL(s).hostname} ↗</a></li>)}</ul></Section>
       </article>
     </main>
