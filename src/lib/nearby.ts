@@ -29,7 +29,7 @@ export type NearbyPlace = {
 
 export const nearbyPlaces: Record<NearbyKey, NearbyPlace> = {
   'isla-grande': {
-    image: 'https://upload.wikimedia.org/wikipedia/commons/c/c0/Cocolise_Isla_Resort%2C_Islas_del_Rosario_%2823938738774%29.jpg',
+    image: '/gallery/isla-grande-cocolise-960.jpg',
     photoSource: 'https://commons.wikimedia.org/wiki/File:Cocolise_Isla_Resort,_Islas_del_Rosario_(23938738774).jpg',
     mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Isla+Grande+Islas+del+Rosario+Cartagena+Colombia',
     location: 'Isla Grande, Islas del Rosario, Cartagena de Indias, Bolívar, Colombia',
