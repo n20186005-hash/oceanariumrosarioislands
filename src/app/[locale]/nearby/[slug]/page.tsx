@@ -6,6 +6,9 @@ import Footer from '@/components/Footer';
 import { nearbyPlaces, type NearbyKey, type NearbyLocale } from '@/lib/nearby';
 import { nearbyDetails } from '@/lib/nearbyDetails';
 
+import PortPlacePage from '@/components/PortPlacePage';
+import { portPlaces, isPortSlug } from '@/lib/portPlaces';
+
 const base = 'https://www.oceanariumrosarioislands.com';
 const locales: NearbyLocale[] = ['zh', 'en', 'es'];
 const names = {
@@ -25,12 +28,19 @@ const practical = {
 };
 
 export function generateStaticParams() {
-  return locales.flatMap(locale => (Object.keys(nearbyPlaces) as NearbyKey[]).map(slug => ({ locale, slug })));
+  return locales.flatMap(locale => [...Object.keys(nearbyPlaces), ...Object.keys(portPlaces)].map(slug => ({ locale, slug })));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string; slug: string }> }): Promise<Metadata> {
   const { locale, slug } = await params;
-  if (!locales.includes(locale as NearbyLocale) || !(slug in nearbyPlaces)) return {};
+  if (!locales.includes(locale as NearbyLocale)) return {};
+  if (isPortSlug(slug)) {
+    const entry = portPlaces[slug];
+    const c = entry.copy[locale as NearbyLocale];
+    const canonical = `${base}/${locale}/nearby/${slug}`;
+    return { title:c.title, description:c.intro, alternates:{ canonical, languages:Object.fromEntries([...locales.map(l=>[l,`${base}/${l}/nearby/${slug}`]),['x-default',`${base}/en/nearby/${slug}`]]) }, openGraph:{ title:c.title,description:c.intro,url:canonical,images:[base+entry.image] } };
+  }
+  if (!(slug in nearbyPlaces)) return {};
   const entry = nearbyPlaces[slug as NearbyKey];
   const info = entry.text[locale as NearbyLocale];
   const canonical = `${base}/${locale}/nearby/${slug}`;
@@ -45,8 +55,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 export default async function NearbyPage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { locale, slug } = await params;
-  if (!locales.includes(locale as NearbyLocale) || !(slug in nearbyPlaces)) notFound();
+  if (!locales.includes(locale as NearbyLocale)) notFound();
   setRequestLocale(locale);
+  if (isPortSlug(slug)) return <PortPlacePage slug={slug} locale={locale as NearbyLocale}/>;
+  if (!(slug in nearbyPlaces)) notFound();
   const place = nearbyPlaces[slug as NearbyKey];
   const info = place.text[locale as NearbyLocale];
   const t = names[locale as NearbyLocale];

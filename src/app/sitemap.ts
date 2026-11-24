@@ -1,3 +1,4 @@
+import { portPlaces } from '@/lib/portPlaces';
 import { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { TOPIC_ORDER, TOPIC_SLUGS } from '@/lib/topics';
@@ -29,7 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.7,
       });
     }
-    for (const slug of Object.keys(nearbyPlaces)) {
+    for (const slug of [...Object.keys(nearbyPlaces), ...Object.keys(portPlaces)]) {
       sitemap.push({
         url: `${baseUrl}/${locale}/nearby/${slug}`,
         lastModified: new Date(),

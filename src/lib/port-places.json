@@ -1,0 +1,662 @@
+{
+  "fuerte-san-jose": {
+    "address": "Fuerte de San José, isla Abanico, Bocachica, Cartagena de Indias, Bolívar, Colombia",
+    "group": "boat",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/fortificaciones-de-bocachica/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Fuerte-Bateria-de-San-Jose.png",
+    "image": "/port/fuerte-san-jose.webp",
+    "copy": {
+      "en": {
+        "title": "San José Fort, Isla Abanico",
+        "intro": "From the water the fort looks low and continuous. On Isla Abanico its position opposite San Fernando marked the mouth of the outer bay. Look for the line of vaulted rooms behind the low platform and the raised cistern: freshwater storage mattered on an island surrounded by salt water.",
+        "route": "Arrange a permitted landing at San José with the boat operator. If access is open, walk from the landing to the courtyard, look back across the channel towards San Fernando, then return to the appointed jetty.",
+        "look": "Study the vaulted blocks from the courtyard, where the sequence of arches is visible without stepping onto the masonry.",
+        "q": "Can I walk here from San Fernando?",
+        "a": "The two forts face each other across the Bocachica channel. A stop at San Fernando gives a view across the water but does not include a landing on Isla Abanico."
+      },
+      "es": {
+        "title": "Fuerte de San José, isla Abanico",
+        "intro": "Desde la lancha se percibe un perfil bajo y continuo. La posición en isla Abanico, frente a San Fernando, señalaba el acceso a la bahía exterior. Detrás de la plataforma se distinguen las bóvedas y el aljibe elevado: conservar agua dulce era esencial en una isla marítima.",
+        "route": "Acuerda con el lanchero un desembarco permitido en San José. Si hay acceso, camina del desembarcadero al patio, mira hacia San Fernando al otro lado del canal y regresa al muelle acordado.",
+        "look": "Desde el patio se aprecia la sucesión de bóvedas sin subir a la mampostería.",
+        "q": "¿Se llega a pie desde San Fernando?",
+        "a": "Los dos fuertes están separados por el canal de Bocachica. La parada en San Fernando permite ver la isla, pero no incluye el desembarco en San José."
+      },
+      "zh": {
+        "title": "阿巴尼科岛圣何塞堡",
+        "intro": "从水面看，堡体低矮，外墙连成一线。它与对岸的圣费尔南多堡共同标志外海湾入口。沿低平台看向后排拱顶房间，还能辨认高出的蓄水池；在海岛驻留，储存淡水和观察航道同样重要。",
+        "route": "先与船家约定是否允许在阿巴尼科岛靠岸。开放时从码头步行到内院，转身隔水道看圣费尔南多堡，再返回原码头集合。",
+        "look": "从内院可以顺着拱顶房间的排列观察，不需要爬上石墙。",
+        "q": "能从圣费尔南多堡走过来吗？",
+        "a": "两座堡之间隔着博卡奇卡水道。在对岸停船可以望见阿巴尼科岛，但不等于包含本岛登陆。"
+      }
+    }
+  },
+  "castillo-san-felipe": {
+    "address": "Castillo de San Felipe de Barajas, Avenida Antonio de Arévalo, Pie del Cerro, Cartagena de Indias, Bolívar, Colombia",
+    "group": "castle",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/castillo-de-san-felipe-de-barajas/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/07/BONETE-.jpg",
+    "image": "/port/castillo-san-felipe.webp",
+    "copy": {
+      "en": {
+        "title": "San Felipe de Barajas Castle",
+        "intro": "The highest enclosure, the Bonete, preserves the earliest part of the castle on San Lázaro hill, built in 1656–57. The lower terraces belong to later enlargements. From the ascent the change in level is easier to read than it is from the skyline below.",
+        "route": "Enter at the signed ticket entrance on Avenida Antonio de Arévalo. Follow the visitor ramp towards the Redención terrace, then the signed stone steps towards the Bonete. Pause on the terrace if the upper climb is too much.",
+        "look": "From the Redención terrace photograph the Bonete above you; from the summit turn towards La Popa to read the landscape beyond the walls.",
+        "q": "Which part should I look for from below?",
+        "a": "Find the compact enclosure at the summit above the broad lower platforms. The upper silhouette belongs to the Bonete, the seventeenth-century nucleus."
+      },
+      "es": {
+        "title": "Castillo de San Felipe de Barajas",
+        "intro": "El Bonete, el recinto más alto del cerro de San Lázaro, conserva el núcleo construido en 1656–1657. Las terrazas inferiores corresponden a ampliaciones posteriores. Al ascender resulta más fácil leer esas etapas que mirando solo la silueta desde la calle.",
+        "route": "Entra por la taquilla señalizada de la avenida Antonio de Arévalo. Sube por el itinerario de visita hacia la batería de la Redención y sigue las escaleras indicadas al Bonete. Si prefieres evitar el último ascenso, detente en la terraza.",
+        "look": "En La Redención encuadra el Bonete en lo alto; desde la cima gira hacia La Popa para apreciar el relieve exterior.",
+        "q": "¿Qué parte se reconoce desde abajo?",
+        "a": "Busca el recinto compacto en la cima, por encima de las plataformas anchas. Esa silueta superior corresponde al núcleo del siglo XVII."
+      },
+      "zh": {
+        "title": "圣费利佩·德巴拉哈斯城堡",
+        "intro": "圣拉萨罗山最高处的博内特堡是城堡的早期核心，建于1656至1657年。山腰宽阔的平台属于后来扩建的部分。顺坡向上走时，不同标高间的转折比从街上仰望轮廓更容易辨认。",
+        "route": "从安东尼奥·德阿雷瓦洛大道标示的售票入口进入，沿游客坡道走向雷登西翁平台，再依标识走石阶到博内特堡。体力有限可在下层平台折返。",
+        "look": "在雷登西翁平台可仰拍顶上的博内特堡，登顶后则可转向拉波帕山，观察城墙以外的起伏地形。",
+        "q": "从山下怎样辨认最早的建筑？",
+        "a": "先找宽大平台上方、山顶轮廓紧凑的小围堡，这就是十七世纪的核心。"
+      }
+    }
+  },
+  "boca-del-puente": {
+    "address": "Torre del Reloj, Plaza de los Coches, Centro, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/planee-su-visita/murallas-de-cartagena/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Centro-historico-barrio-centro-boca-del-puente-700x466.jpg",
+    "image": "/port/boca-del-puente.webp",
+    "copy": {
+      "en": {
+        "title": "Clock Tower Gate, Boca del Puente",
+        "intro": "Coming from the island boats at La Bodeguita, the clock marks a change of worlds. The old main gate frames the shaded arcades of Plaza de los Coches on one side and the open pedestrian approach from Getsemaní on the other. Look back once through the opening to see how the two spaces meet.",
+        "route": "From the quay walk along the public waterfront towards the clock, cross the pedestrian approach and pass through to Plaza de los Coches. Move to the edge of the square before stopping for a photograph.",
+        "look": "For the full tower stand on the Camellón side. For a more enclosed view frame the clock through the activity of the square.",
+        "q": "Is the clock tower the boat departure point?",
+        "a": "No. The tower marks the city gate. Use the pier and gate number printed on your boat booking for check-in."
+      },
+      "es": {
+        "title": "Torre del Reloj o Boca del Puente",
+        "intro": "Al regresar de las islas a La Bodeguita, el reloj anuncia el paso del puerto al recinto antiguo. La puerta principal enmarca los portales de la Plaza de los Coches por un lado y el espacio abierto hacia Getsemaní por el otro. Cruza y mira atrás para entender la relación entre ambos.",
+        "route": "Desde el muelle sigue el paseo público hacia el reloj, cruza el acceso peatonal y entra a la Plaza de los Coches. Para fotografiar, apártate de la boca de paso hacia un lado de la plaza.",
+        "look": "Desde el lado del Camellón cabe la torre entera. Desde la plaza la actividad del portal acompaña al reloj en el encuadre.",
+        "q": "¿Es aquí donde sale la lancha?",
+        "a": "La torre identifica la puerta de la ciudad. Para el embarque busca el muelle y el número de acceso de tu reserva."
+      },
+      "zh": {
+        "title": "钟楼城门 Boca del Puente",
+        "intro": "从拉博德吉塔码头下船，钟面标出了港区与老城交接的位置。古城主门的一侧框住马车广场的阴凉拱廊，另一侧面向通往赫塞马尼的开阔步道。穿过门洞后回头看一次，才能直观比较两侧空间。",
+        "route": "从码头沿公共滨水步道走向钟楼，越过门前的行人区，穿门进入马车广场。到广场边上再停步拍照，给门洞留出通道。",
+        "look": "在烈士步道一侧能拍到整座塔，从广场一侧则可把拱廊和人群纳入画面。",
+        "q": "这里就是去群岛的登船点吗？",
+        "a": "钟楼标记古城门。乘船报到应以订单所列码头和入口编号为准。"
+      }
+    }
+  },
+  "san-juan-evangelista": {
+    "address": "Baluarte de San Juan Evangelista, Plaza de los Coches, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/planee-su-visita/murallas-de-cartagena/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Centro-historico-barrio-centro-baluarte-San-Juan-Evangelista-700x466.jpg",
+    "image": "/port/san-juan-evangelista.webp",
+    "copy": {
+      "en": {
+        "title": "San Juan Evangelista Bastion",
+        "intro": "The terrace beside the Clock Tower puts the port and the market arcades in the same frame. From Plaza de los Coches, look first towards the Portal de los Dulces, then across the wall to the Bahía de las Ánimas. The contrast explains why this platform rose next to the old main entrance.",
+        "route": "Pass through the clock gate into Plaza de los Coches. Use the marked access beside the gate to reach the bastion, look out towards the Camellón de los Mártires and return to the square.",
+        "look": "The landward side overlooks the sweet sellers’ arcade. Across the parapet on the harbour side, identify the broad approach from the Camellón.",
+        "q": "How is this different from visiting the clock gate?",
+        "a": "The gate is the passage at street level. The bastion is the adjoining raised platform, with a view over the square and the bay."
+      },
+      "es": {
+        "title": "Baluarte de San Juan Evangelista",
+        "intro": "La terraza contigua al reloj reúne el puerto y los portales comerciales en una sola vista. Ubica primero el Portal de los Dulces en la Plaza de los Coches y después la bahía de las Ánimas al otro lado de la muralla. Así se entiende la posición del baluarte junto a la entrada principal.",
+        "route": "Cruza la puerta del reloj hacia la Plaza de los Coches. Sigue el acceso indicado al baluarte junto a la puerta, observa el Camellón de los Mártires y vuelve a la plaza.",
+        "look": "Hacia tierra se ve el Portal de los Dulces; del lado de la bahía se distingue la llegada desde el Camellón.",
+        "q": "¿En qué se distingue de la Torre del Reloj?",
+        "a": "La puerta da paso a nivel de calle. El baluarte es la plataforma elevada contigua que permite mirar sobre la plaza y la bahía."
+      },
+      "zh": {
+        "title": "福音书作者圣约翰堡垒",
+        "intro": "钟楼旁的平台把旧港和商廊纳入同一片视野。先辨认马车广场边的甜点拱廊，再越过城墙找阿尼马斯湾。低处是人货出入城门的地方，高处则能同时观察广场和海湾，这解释了堡垒的位置。",
+        "route": "穿钟楼进入马车广场，从门旁标出的通道上平台，看向烈士步道，再回广场；拍摄商廊时先避开城门正中的人流。",
+        "look": "面向城内可看见甜点拱廊，转到朝港湾的矮墙一侧，可辨认从烈士步道进城的宽阔通道。",
+        "q": "和参观钟楼城门有什么区别？",
+        "a": "城门是街面上的通道，堡垒是紧邻城门的高平台，从那里可以俯看广场和海湾。"
+      }
+    }
+  },
+  "san-ignacio": {
+    "address": "Baluarte de San Ignacio, Calle de la Ronda, Centro, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/planee-su-visita/murallas-de-cartagena/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Centro-historico-barrio-centro-baluarte-san-ignacio-700x466.jpg",
+    "image": "/port/san-ignacio.webp",
+    "copy": {
+      "en": {
+        "title": "San Ignacio de Loyola Bastion",
+        "intro": "The curve of Bahía de las Ánimas is clear from the platform that once guarded this shore. Turn inland and the dome of San Pedro Claver rises above the roofline. Comparing the two views makes the short distance between the Jesuit quarter and the old harbour tangible.",
+        "route": "Leave Plaza de San Pedro Claver towards Calle de la Ronda and the marked wall access. Follow the platform edge on the public path, then return towards the church for the opposite view.",
+        "look": "Compare the low horizontal edge of the wall with the church dome behind it from the approach along Calle de la Ronda.",
+        "q": "Where can I frame the church and its surroundings?",
+        "a": "Move to the landward side of the terrace and look back towards the dome. On the opposite side the bay dominates the view."
+      },
+      "es": {
+        "title": "Baluarte de San Ignacio de Loyola",
+        "intro": "La curva de la bahía de las Ánimas se aprecia desde la plataforma que protegía esta orilla. Al girar hacia tierra aparece la cúpula de San Pedro Claver sobre los tejados. Las dos perspectivas muestran lo cerca que estaban el antiguo puerto y el barrio jesuita.",
+        "route": "Sal de la plaza de San Pedro Claver hacia la Calle de la Ronda y el acceso señalizado a la muralla. Recorre el borde por el paso público y vuelve hacia la iglesia para invertir la perspectiva.",
+        "look": "Desde la aproximación por la Calle de la Ronda contrasta la línea baja de la muralla con la cúpula que sobresale detrás.",
+        "q": "¿Desde dónde se aprecia la iglesia en su entorno?",
+        "a": "Desde el lado interior de la terraza mira hacia la cúpula. En el lado opuesto domina la bahía."
+      },
+      "zh": {
+        "title": "圣依纳爵堡垒",
+        "intro": "站在原来守望海岸的平台上，阿尼马斯湾的弧线十分清楚。向陆地转身，圣佩德罗·克拉韦尔教堂圆顶高出老城屋脊。这两个方向的视野说明耶稣会街区与古港原本相距多近。",
+        "route": "从圣佩德罗·克拉韦尔广场走向隆达街和有标志的上墙通道，沿平台开放侧步行，再面向教堂回走，比较海岸与街区两面。",
+        "look": "从隆达街接近平台时，可对照横向延伸的低墙与后方突出的教堂圆顶。",
+        "q": "从哪里拍教堂和屋顶？",
+        "a": "在平台靠城内一侧回望圆顶；相反方向的画面则主要是海湾。"
+      }
+    }
+  },
+  "san-francisco-javier": {
+    "address": "Baluarte de San Francisco Javier, sector de Santa Teresa, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/planee-su-visita/murallas-de-cartagena/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Centro-historico-barrio-centro-baluarte-san-fransisco-javier-700x466.jpg",
+    "image": "/port/san-francisco-javier.webp",
+    "copy": {
+      "en": {
+        "title": "San Francisco Javier Bastion",
+        "intro": "Near the former Santa Teresa complex, the sea wall widens from a narrow walk into this projecting terrace. From a short distance along the wall you can see the junction of the straight curtain and the angled platform. It gives the visitor a different impression from the street-level view near Parque de la Marina.",
+        "route": "Walk from the Naval Museum towards the Santa Teresa side of the walls. Ascend at the signed ramp, then follow the public walk a little way towards Santiago before turning to look back at the bastion.",
+        "look": "The long wall towards Santiago lets you see the platform in profile against the sea; keep to the visitor walkway for this angle.",
+        "q": "How can I see the shape of the platform?",
+        "a": "Step along the adjoining wall towards Santiago and look back instead of standing at the centre of the platform."
+      },
+      "es": {
+        "title": "Baluarte de San Francisco Javier",
+        "intro": "Cerca del antiguo conjunto de Santa Teresa, el camino estrecho sobre la muralla se abre en esta terraza saliente. Unos pasos por la cortina permiten distinguir el encuentro entre el lienzo recto y la plataforma angular. La perspectiva cambia respecto a la vista desde el Parque de la Marina.",
+        "route": "Desde el Museo Naval camina hacia el sector de Santa Teresa. Sube por la rampa señalizada y avanza por el paseo público en dirección a Santiago antes de volverte hacia el baluarte.",
+        "look": "Desde el lienzo hacia Santiago se ve de perfil la plataforma contra el mar, sin salir del paseo de visitantes.",
+        "q": "¿Cómo se aprecia la forma de la plataforma?",
+        "a": "Da unos pasos por la cortina hacia Santiago y mira atrás; desde el centro del baluarte se pierde parte de su contorno."
+      },
+      "zh": {
+        "title": "圣方济各·沙勿略堡垒",
+        "intro": "靠近旧圣特蕾莎建筑群，城墙顶的狭长步道突然展开成向外突出的平台。沿相邻墙段走几步，就能分辨笔直幕墙和带转角的平台如何相接。从海军公园附近的街面仰看，很难看清这层关系。",
+        "route": "从海军博物馆朝圣特蕾莎一侧走，到标示的坡道上城墙。沿公共步道向圣地亚哥方向走一段，回身看堡垒，再沿原路下坡。",
+        "look": "从通向圣地亚哥的直墙回望，可以海面为背景看到平台侧面，站在开放步道上即可。",
+        "q": "哪里最容易看清平台形状？",
+        "a": "不要只站在平台中央。向圣地亚哥方向走到相邻直墙上，再回头观察外侧转角。"
+      }
+    }
+  },
+  "santiago-apostol": {
+    "address": "Baluarte de Santiago Apóstol, rampa de la Calle Baloco, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/centro-historico/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Centro-historico-barrio-centro-Santiago-Apostol.jpg",
+    "image": "/port/santiago-apostol.webp",
+    "copy": {
+      "en": {
+        "title": "Santiago Apóstol Bastion",
+        "intro": "On the side of the old city facing the Caribbean, the wall opens onto a broad terrace opposite Calle Baloco. One direction frames the older masonry and roofs, the other the tall buildings of Bocagrande. Those contrasting skylines give the site a distinctive place in a walk along the western wall.",
+        "route": "From Calle Baloco use the facing ramp to the top. Walk to the seaward viewpoint, then back towards the section leading to San Francisco Javier. Return down the Baloco ramp for the inner streets.",
+        "look": "From near the top of the ramp turn towards Bocagrande before walking to the seaward side; the modern skyline is a useful orientation mark.",
+        "q": "Where should I start for a short visit?",
+        "a": "Use Calle Baloco. Its ramp brings you directly to Santiago rather than to a different bastion farther along the walls."
+      },
+      "es": {
+        "title": "Baluarte de Santiago Apóstol",
+        "intro": "En el costado que mira al Caribe, la muralla se ensancha frente a la Calle Baloco. En un sentido aparecen la mampostería y los tejados del recinto antiguo; en el otro, las torres de Bocagrande. El cambio de horizonte distingue esta parada en el paseo occidental.",
+        "route": "Desde la Calle Baloco sube por la rampa de enfrente. Acércate al lado del mar y regresa hacia la cortina que lleva a San Francisco Javier. Baja por Baloco para continuar por las calles interiores.",
+        "look": "Antes de alcanzar el borde marítimo, gira desde lo alto de la rampa hacia Bocagrande; sus torres ayudan a orientarse.",
+        "q": "¿Dónde comenzar una visita corta?",
+        "a": "La rampa frente a Baloco desemboca en Santiago y evita subir primero a otro baluarte."
+      },
+      "zh": {
+        "title": "圣地亚哥使徒堡垒",
+        "intro": "老城面向加勒比海的一侧，在巴洛科街对面拓宽成一片平台。一面是低矮的老城屋顶和石墙，转向另一面则是博卡格兰德的高楼。两条迥然不同的天际线，使这里成为西段城墙上容易辨认的停靠点。",
+        "route": "从巴洛科街对面的坡道上墙，走到临海一面，再折向通往圣方济各·沙勿略堡的直墙。想逛老城街巷可回到巴洛科坡道下城。",
+        "look": "在坡顶先面向博卡格兰德，再到临海处，高楼是很好辨认的方位标记。",
+        "q": "时间有限从哪里上墙最方便？",
+        "a": "选择巴洛科街正对的坡道，可直接抵达圣地亚哥平台，省去从其他堡垒走来的路程。"
+      }
+    }
+  },
+  "santo-domingo": {
+    "address": "Baluarte de Santo Domingo, Centro Histórico, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/planee-su-visita/murallas-de-cartagena/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Baluarte-de-Santo-Domingo-2-700x466.png",
+    "image": "/port/santo-domingo.webp",
+    "copy": {
+      "en": {
+        "title": "Santo Domingo Bastion",
+        "intro": "At the western bend the wall projects out towards the sea. Follow its outer line with your eyes and the change of direction towards Santa Cruz becomes clear. The broad viewing area is especially busy at dusk; walk a little along the adjoining curtain for a view back at the masonry.",
+        "route": "Start on Calle de Santo Domingo, head away from the interior plaza towards the wall and take the public ramp. Look towards the sea before following the wall a short distance north towards Santa Cruz.",
+        "look": "Look from the wall walk beyond the main viewing terrace so the two faces of the projecting masonry remain in the same frame.",
+        "q": "Is the Plaza de Santo Domingo the same destination?",
+        "a": "The plaza lies within the streets. The bastion is on the outer wall; continue seawards from the square."
+      },
+      "es": {
+        "title": "Baluarte de Santo Domingo",
+        "intro": "En el quiebre occidental, la muralla se proyecta hacia el mar. Sigue su borde con la mirada hasta el cambio de dirección hacia Santa Cruz. Al caer la tarde se concentra gente en la plataforma; unos pasos por la cortina contigua ofrecen una vista hacia la propia mampostería.",
+        "route": "Toma la Calle de Santo Domingo desde la plaza interior hacia la muralla y sube por la rampa pública. Mira al mar y continúa un trecho al norte, en dirección a Santa Cruz.",
+        "look": "Desde el paseo contiguo a la terraza principal caben en una toma las dos caras del saliente de piedra.",
+        "q": "¿Se trata de la Plaza de Santo Domingo?",
+        "a": "La plaza está dentro del barrio. El baluarte forma parte de la muralla exterior; sigue desde la plaza en dirección al mar."
+      },
+      "zh": {
+        "title": "圣多明各堡垒",
+        "intro": "在老城西侧转弯处，石墙突出到海的一面。用视线沿墙边追踪，很容易看出它如何转向圣十字堡。傍晚平台往往聚集看海的人，往相邻直墙走几步再回头，反倒更容易看清整片石砌立面。",
+        "route": "从老城内的圣多明各广场沿同名街向海边走，循公共坡道上墙。面海停留后，可沿墙向北朝圣十字堡再走一段。",
+        "look": "在主观景台旁的城墙步道停步，墙角两面都能收入同一画面。",
+        "q": "地图上的圣多明各广场就是堡垒吗？",
+        "a": "广场在街区内部；堡垒位于靠海的外城墙，要从广场继续往海边走。"
+      }
+    }
+  },
+  "santa-cruz": {
+    "address": "Baluarte de la Santa Cruz, Playa de la Artillería, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/centro-historico/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Baluarte-de-La-Cruz.png",
+    "image": "/port/santa-cruz.webp",
+    "copy": {
+      "en": {
+        "title": "Santa Cruz Bastion",
+        "intro": "Between Santo Domingo and the Ballestas platform, this seaward projection looks both along the wall and towards the north of Cartagena. For a clearer reading of its footprint, approach from the lower street first and note where the straight masonry begins to turn.",
+        "route": "From the Santo Domingo neighbourhood find Playa de la Artillería and the ramp to the bastion. Compare the view along the seafront with the roofs behind you, then descend the same ramp towards the church.",
+        "look": "Use the top of the ramp to locate the straight wall section running back towards Santo Domingo before following it on foot.",
+        "q": "Does Playa de la Artillería mean I should walk on the beach?",
+        "a": "It is the street used to locate the ramp. The visit takes place on the upper public platform."
+      },
+      "es": {
+        "title": "Baluarte de la Santa Cruz",
+        "intro": "Entre Santo Domingo y la plataforma de Ballestas, este saliente permite mirar a lo largo de la muralla y hacia el norte de Cartagena. Acércate primero por la calle baja para distinguir dónde gira la línea recta de la mampostería.",
+        "route": "Desde el sector de Santo Domingo localiza Playa de la Artillería y la rampa del baluarte. Compara el borde marítimo con los tejados a tu espalda y baja por la misma rampa hacia la iglesia.",
+        "look": "En lo alto de la rampa ubica el lienzo recto hacia Santo Domingo antes de recorrerlo.",
+        "q": "¿Se camina por la playa para subir?",
+        "a": "Playa de la Artillería es la referencia de calle para localizar la rampa. El recorrido se hace en la plataforma superior."
+      },
+      "zh": {
+        "title": "圣十字堡垒",
+        "intro": "这里位于圣多明各堡与巴列斯塔斯平台之间，墙角向海突出，既能顺着城墙远望，也能看到卡塔赫纳北部。先在低处街面走近，观察平直石墙在哪里改变方向，比一开始就站在顶上更容易读懂轮廓。",
+        "route": "从圣多明各街区找到 Playa de la Artillería 路和堡垒坡道。上墙后比较海滨一面和身后的屋顶，再原路下坡走向教堂。",
+        "look": "在坡顶先找到通往圣多明各堡的直墙，再沿开放区步行，更容易分辨两个堡垒的位置。",
+        "q": "道路名称带有“海滩”，要走沙地吗？",
+        "a": "这是用来定位坡道的街名。游览的主要位置是上层公共平台。"
+      }
+    }
+  },
+  "la-merced": {
+    "address": "Baluarte de La Merced, junto al Teatro Adolfo Mejía, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/centro-historico/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Baluarte-de-La-Merced.jpg",
+    "image": "/port/la-merced.webp",
+    "copy": {
+      "en": {
+        "title": "La Merced Bastion",
+        "intro": "This site has an unusual profile: the interior lies at ground level. Known as an empty bastion, it can be easy to miss if you expect a high terrace. The name comes from the nearby Merced convent, on the site associated today with the Adolfo Mejía theatre.",
+        "route": "Begin outside Teatro Adolfo Mejía. Walk towards the wall by the theatre and follow its outline from street level before returning to the theatre façade. The ground-level interior is the feature to look for.",
+        "look": "View the low inner space from the public pavement beside the theatre; that level reveals the characteristic empty interior.",
+        "q": "Why does this look different from the higher bastions?",
+        "a": "Its interior was not filled up into a raised platform. Examine its outline from the street rather than looking for a long ascent."
+      },
+      "es": {
+        "title": "Baluarte de la Merced",
+        "intro": "Este lugar tiene un perfil peculiar: su interior queda a nivel del suelo. Se conoce como baluarte vacío y pasa desapercibido si se espera una terraza alta. Su nombre procede del cercano convento de La Merced, referencia del actual Teatro Adolfo Mejía.",
+        "route": "Empieza ante el Teatro Adolfo Mejía. Acércate a la muralla junto al teatro, bordea el contorno por la calle y regresa a la fachada teatral. Fíjate precisamente en el interior bajo.",
+        "look": "Desde el andén público junto al teatro se aprecia mejor el interior bajo que caracteriza al baluarte vacío.",
+        "q": "¿Por qué se ve distinto de los baluartes elevados?",
+        "a": "El interior no se rellenó para crear una terraza alta. Sigue el perímetro desde la calle en vez de buscar una subida larga."
+      },
+      "zh": {
+        "title": "梅尔塞德堡垒",
+        "intro": "这座堡垒的内部与街面几乎齐平，当地称它为“空堡”。如果一心寻找高平台，很容易走过。名字来自邻近的梅尔塞德修道院，如今可用阿道弗·梅希亚剧院定位这一带。",
+        "route": "从阿道弗·梅希亚剧院外出发，步行到邻近城墙，在街面顺着石墙轮廓走一段，再折回剧院正面。留意低处的堡内空间。",
+        "look": "从剧院旁的人行道看，比从高处俯瞰更容易体会这座“空堡”内部与街面齐平的特点。",
+        "q": "为什么这里和其他高堡不一样？",
+        "a": "内部没有垫高成为高台。看点是沿街可辨的平面形状，不必寻找很长的上坡路。"
+      }
+    }
+  },
+  "santa-clara": {
+    "address": "Baluarte de Santa Clara, rampa de Calle del Torno, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/centro-historico/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Baluarte-de-Santa-Clara.jpg",
+    "image": "/port/santa-clara.webp",
+    "copy": {
+      "en": {
+        "title": "Santa Clara Bastion",
+        "intro": "The convent of Santa Clara de Asís gave its name to the wall overlooking the northern seafront. The former convent is now a hotel, while the ramp from Calle del Torno serves the public wall. From above, compare the scale of the former religious precinct with the long, open waterline.",
+        "route": "Find Calle del Torno in San Diego, then the ramp facing the street. Walk up to the seaward edge and turn towards Las Bóvedas for the next wall stop. Descend at an open public ramp.",
+        "look": "Pause at the turn above the ramp and compare the old convent blocks with the open water beyond the opposite parapet.",
+        "q": "Do I have to enter the hotel?",
+        "a": "Use the wall ramp opposite Calle del Torno. Visiting the hotel is a separate arrangement."
+      },
+      "es": {
+        "title": "Baluarte de Santa Clara",
+        "intro": "El convento de Santa Clara de Asís dio nombre a este tramo frente al mar del norte. El antiguo convento hoy funciona como hotel, mientras que la rampa frente a la Calle del Torno conduce al paseo público. Desde arriba compara la extensión del conjunto conventual con la línea abierta del mar.",
+        "route": "Localiza la Calle del Torno en San Diego y sube por la rampa de enfrente. Camina hasta el borde marítimo y orienta el paseo hacia Las Bóvedas. Baja por una rampa pública abierta.",
+        "look": "Detente sobre la rampa para comparar las manzanas del antiguo convento con el agua abierta tras el parapeto opuesto.",
+        "q": "¿Hay que entrar al hotel?",
+        "a": "Para el baluarte se utiliza la rampa de la muralla frente a la Calle del Torno. El acceso al hotel es independiente."
+      },
+      "zh": {
+        "title": "圣克拉拉堡垒",
+        "intro": "堡垒俯瞰北侧海岸，名字取自附近的圣克拉拉修道院。原修道院现作酒店使用，托尔诺街对面的坡道则通往公共城墙。从高处看陆上的院落，再看海面连绵的水平线，可以比较两种截然不同的空间。",
+        "route": "在圣迭戈街区找到托尔诺街，从对面的坡道上城。走到面海一侧后，可朝拉斯博韦达斯拱廊继续，再从开放的公共坡道下墙。",
+        "look": "站在坡道上方转角，比较原修道院占据的街区与对面矮墙以外的海面。",
+        "q": "需要穿过酒店才能到吗？",
+        "a": "公共坡道就在托尔诺街对面，游览城墙不需要进入酒店。"
+      }
+    }
+  },
+  "las-bovedas": {
+    "address": "Las Bóvedas, San Diego, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/centro-historico/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Cuartel-Militar-de-las-Bovedas.jpg",
+    "image": "/port/las-bovedas.webp",
+    "copy": {
+      "en": {
+        "title": "Las Bóvedas Barracks",
+        "intro": "The rhythm of the arches belongs to a late addition to the enclosure. Antonio de Arévalo built the barracks in 1792–98 to house troops and stores beneath protected vaults. Today the covered frontage gives a close view of the repeating bays, while shops occupy spaces behind it.",
+        "route": "Start at the open forecourt in San Diego. Follow the arcade on foot, comparing the depth of successive bays. At the Santa Catalina end use the public ramp for a second view of the long building from above.",
+        "look": "At one end of the arcade the arches line up in depth. Keep shop doors and the public passage clear while taking a picture.",
+        "q": "Are the shops the whole monument?",
+        "a": "The historic structure is the continuous vaulted barracks. Individual shops occupy separate units and set their own opening times."
+      },
+      "es": {
+        "title": "Cuartel de Las Bóvedas",
+        "intro": "El ritmo de los arcos corresponde a una obra tardía del recinto. Antonio de Arévalo levantó el cuartel entre 1792 y 1798 para alojar tropas y almacenar pertrechos bajo bóvedas protegidas. Hoy los locales ocupan dependencias tras una fachada cubierta que deja ver la sucesión de tramos.",
+        "route": "Comienza en la plazoleta abierta de San Diego. Recorre el corredor mirando la profundidad de los arcos. En el extremo de Santa Catalina toma la rampa pública para ver desde arriba la longitud del edificio.",
+        "look": "Desde un extremo del corredor los arcos se alinean en profundidad. Deja libres las puertas de tiendas y el paso del público.",
+        "q": "¿El monumento se reduce a las tiendas?",
+        "a": "La construcción histórica es el cuartel abovedado continuo. Los comercios ocupan locales distintos y tienen horarios propios."
+      },
+      "zh": {
+        "title": "拉斯博韦达斯拱顶兵营",
+        "intro": "一连串拱门属于老城围墙较晚完成的建筑。安东尼奥·德阿雷瓦洛在1792至1798年间建造兵营，用拱顶保护驻军和储存物资的空间。如今商铺分布在拱廊之后，沿廊步行仍能看清连续开间的进深。",
+        "route": "从圣迭戈街区的兵营前广场出发，沿拱廊比较各开间的深度。走到圣卡塔利娜堡一端，可循公共坡道上去俯看整栋建筑。",
+        "look": "在拱廊一端往里拍，连续拱门能形成很强的纵深感，停留时请让开店门和公共通道。",
+        "q": "这里的古迹就是几家商店吗？",
+        "a": "古迹是整座连续的拱顶兵营；不同商铺使用其中的独立房间，各自安排营业。"
+      }
+    }
+  },
+  "santa-catalina": {
+    "address": "Baluarte de Santa Catalina, Las Bóvedas, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/centro-historico/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Baluarte-de-Santa-Catalina-1-1-300x225.jpg",
+    "image": "/port/santa-catalina.webp",
+    "copy": {
+      "en": {
+        "title": "Santa Catalina Bastion",
+        "intro": "At the end of Las Bóvedas, the wall turns into one half of the northern defensive pair known as La Tenaza. Across the upper surface a roofed shelter breaks up the open terrace. Look towards El Cabrero and then along the adjoining wall to understand why this was a northern lookout.",
+        "route": "Walk the barracks frontage towards the Santa Catalina end and climb the Las Bóvedas ramp. Pause beside the shelter and follow the public path towards San Lucas or return along the ramp.",
+        "look": "Walk just beyond the shelter to compare the view towards El Cabrero with the long barracks roof below the ramp.",
+        "q": "Which other bastion formed La Tenaza?",
+        "a": "Santa Catalina and San Lucas formed the pair. They are adjoining stops with distinct platforms."
+      },
+      "es": {
+        "title": "Baluarte de Santa Catalina",
+        "intro": "Al final de Las Bóvedas aparece una de las dos piezas del frente norte llamado La Tenaza. Un tendal interrumpe la superficie abierta de la terraza. Mira hacia El Cabrero y luego a lo largo de la muralla para situar este antiguo puesto de observación.",
+        "route": "Recorre la fachada del cuartel en dirección a Santa Catalina y sube por la rampa de Las Bóvedas. Detente junto al tendal y continúa por el paso público hacia San Lucas o vuelve por la rampa.",
+        "look": "Avanza unos pasos más allá del tendal y compara la vista de El Cabrero con la larga cubierta del cuartel bajo la rampa.",
+        "q": "¿Qué otro baluarte integraba La Tenaza?",
+        "a": "Santa Catalina formaba pareja con San Lucas. Son dos plataformas contiguas que se pueden distinguir durante el paseo."
+      },
+      "zh": {
+        "title": "圣卡塔利娜堡垒",
+        "intro": "在拉斯博韦达斯兵营尽头，可见北部“双钳”防御线的一端。开阔平台上有带顶棚的遮蔽处。先望向卡布雷罗街区，再顺城墙回看，能读出它过去为什么适合观察北面的陆路。",
+        "route": "沿兵营正面走向圣卡塔利娜一端，从拱顶兵营坡道上墙。在顶棚边停留，再沿开放步道去圣卢卡斯堡，或原坡道折返。",
+        "look": "越过顶棚几步，一边可以看卡布雷罗街区，另一边可看坡道下方沿街延伸的兵营屋顶。",
+        "q": "另一半“双钳”是哪一座堡？",
+        "a": "圣卡塔利娜与圣卢卡斯配成一组；两座平台相邻，游览时可以分别辨认。"
+      }
+    }
+  },
+  "san-lucas": {
+    "address": "Baluarte de San Lucas, San Diego, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/centro-historico/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/Baluarte-de-San-Lucas.jpg",
+    "image": "/port/san-lucas.webp",
+    "copy": {
+      "en": {
+        "title": "San Lucas Bastion",
+        "intro": "Two roofed shelters distinguish San Lucas from the neighbouring Santa Catalina platform. One is unusually long. Stand where the roof ends and compare the channel of Juan Angola and the neighbourhood of El Cabrero with the open seaward view from the other half of La Tenaza.",
+        "route": "From Las Bóvedas take the public ramp, pass Santa Catalina and follow the signed northern wall to San Lucas. Stop under the longer shelter before turning inland towards the channel.",
+        "look": "Stand at the end of the longer shelter to compare its repeating supports with the open platform beside it.",
+        "q": "What identifies San Lucas on the wall?",
+        "a": "Look for its pair of covered spaces. Their roofs create a recognisably different profile from the more exposed stretches nearby."
+      },
+      "es": {
+        "title": "Baluarte de San Lucas",
+        "intro": "Dos tendales distinguen San Lucas de la plataforma vecina de Santa Catalina; uno destaca por su longitud. Desde el extremo de la cubierta compara el caño de Juan Angola y El Cabrero con la vista de mar desde la otra mitad de La Tenaza.",
+        "route": "Desde Las Bóvedas sube por la rampa pública, pasa Santa Catalina y sigue el tramo norte señalizado hasta San Lucas. Detente bajo el tendal largo antes de girar hacia el caño.",
+        "look": "Desde el extremo del tendal largo compara la repetición de los apoyos con el espacio descubierto contiguo.",
+        "q": "¿Qué permite identificar San Lucas?",
+        "a": "Busca los dos espacios cubiertos. Sus techos cambian el perfil frente a los tramos descubiertos de muralla."
+      },
+      "zh": {
+        "title": "圣卢卡斯堡垒",
+        "intro": "两处有盖的长棚，使圣卢卡斯区别于相邻的圣卡塔利娜平台，其中一处特别长。在棚顶尽头辨认胡安安戈拉水道与卡布雷罗街区，再比较“双钳”另一端面向外海的视野，很容易分清方向。",
+        "route": "在拱顶兵营处走公共坡道上墙，经过圣卡塔利娜，沿北段开放步道走到圣卢卡斯。在较长的顶棚下停留，再转向内侧寻找水道。",
+        "look": "在长棚一端比较重复排列的立柱与旁边的露天平台，最容易看清屋顶的尺度。",
+        "q": "在墙上怎样认出它？",
+        "a": "留意同一平台上的两段有盖空间，屋顶轮廓与周围露天的城墙十分不同。"
+      }
+    }
+  },
+  "san-miguel-chambacu": {
+    "address": "Baluarte de San Miguel, Parque Puerto de Chambacú, Cartagena de Indias, Bolívar, Colombia",
+    "group": "wall",
+    "source": "https://fortificacionescartagena.com.co/es/servicios/reservas/barrio-de-getsemani/",
+    "photoSource": "https://fortificacionescartagena.com.co/wp-content/uploads/2017/06/BALUARTE-SAN-MIGUEL-.jpg",
+    "image": "/port/san-miguel-chambacu.webp",
+    "copy": {
+      "en": {
+        "title": "San Miguel de Chambacú Bastion",
+        "intro": "The approach here begins in a park rather than in an old-city square. From the raised wall, locate the India Catalina monument and then the much larger profile of San Felipe castle. The contrast places the Getsemaní fortifications in relation to the hill beyond the water.",
+        "route": "Start inside Parque Puerto de Chambacú. Look for the public stairs from the park up to the platform. After comparing the two landmarks, descend into the park by the marked exit.",
+        "look": "The upper platform gives a clearer view of San Felipe than the park entrance; use the hill as a landmark for the return walk.",
+        "q": "Is this the visitor entrance for San Felipe?",
+        "a": "No. The castle is a landmark visible from here. Its ticket entrance is across the water in the San Lázaro area."
+      },
+      "es": {
+        "title": "Baluarte de San Miguel de Chambacú",
+        "intro": "Aquí se llega desde un parque en lugar de una plaza colonial. En la plataforma busca el monumento a la India Catalina y después la silueta mucho mayor del castillo de San Felipe. La comparación sitúa el recinto de Getsemaní respecto al cerro del otro lado del agua.",
+        "route": "Empieza dentro del Parque Puerto de Chambacú. Busca la escalera pública que sube del parque al baluarte. Tras comparar los dos hitos, regresa por la bajada señalizada.",
+        "look": "La plataforma ofrece mejor vista de San Felipe que el acceso del parque; usa el cerro para orientarte al regreso.",
+        "q": "¿Se entra desde aquí al castillo de San Felipe?",
+        "a": "El castillo se ve desde este lugar. Su acceso de visitantes está al otro lado del agua, en el sector de San Lázaro."
+      },
+      "zh": {
+        "title": "昌巴库圣米格尔堡垒",
+        "intro": "和许多从老城广场上墙的观景点不同，此处的起点是一座公园。在高台上先找印第安女子卡塔利娜纪念像，再找体量大得多的圣费利佩城堡。两个地标能帮助理解赫塞马尼的城墙与水道对面山丘的关系。",
+        "route": "从昌巴库港公园内部出发，寻找公园通往堡台的公共阶梯。上台依次辨认两个地标，再经有标识的下行通道返回公园。",
+        "look": "上层平台看圣费利佩山堡比公园入口更清楚，返程时也可以用远处山丘帮助定位。",
+        "q": "这里也是圣费利佩城堡入口吗？",
+        "a": "这里只能远望城堡。城堡的游客入口在水道另一边的圣拉萨罗地区。"
+      }
+    }
+  },
+  "museo-naval": {
+    "address": "Museo Naval del Caribe, Calle San Juan de Dios, Centro, Cartagena de Indias, Bolívar, Colombia",
+    "group": "naval",
+    "source": "https://museonavaldelcaribe.org/fundacion-museo-naval-del-caribe/",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Museo_Naval_del_Caribe.JPG",
+    "image": "/port/museo-naval.webp",
+    "copy": {
+      "en": {
+        "title": "Caribbean Naval Museum",
+        "intro": "After seeing the harbour from a boat, the museum gives the coastline a different scale. Models and historic objects let visitors compare the shape of the bay, the fortifications and vessels that used the port. Begin with a model before examining individual objects: details that were invisible from the boat become easier to locate.",
+        "route": "Walk from Plaza de San Pedro Claver towards Calle San Juan de Dios and the museum entrance. Start with the galleries on Cartagena and the bay, then follow the marked circuit into the naval displays before returning to the entrance.",
+        "look": "Look along a model at eye level and then from above. A channel that seemed broad from the boat can appear narrow in plan.",
+        "q": "What should I prioritise after an island excursion?",
+        "a": "Find a bay or fortification model first and trace the approach from Bocachica. Then choose the objects connected to the part of the harbour you just saw."
+      },
+      "es": {
+        "title": "Museo Naval del Caribe",
+        "intro": "Después de ver el puerto desde una lancha, el museo permite cambiar de escala. Las maquetas y piezas históricas relacionan la forma de la bahía, las fortificaciones y los barcos que usaron el puerto. Empezar por una maqueta ayuda a situar detalles difíciles de distinguir desde el agua.",
+        "route": "Desde la plaza de San Pedro Claver camina hacia la Calle San Juan de Dios y la entrada del museo. Empieza por las salas de Cartagena y la bahía y sigue el circuito señalizado hacia la exposición naval antes de volver al acceso.",
+        "look": "Mira una maqueta a su altura y luego desde arriba: un canal que se veía amplio desde la lancha cambia al observar la planta.",
+        "q": "¿Qué conviene ver al regresar de las islas?",
+        "a": "Localiza primero una maqueta de la bahía o de sus fortificaciones y sigue el acceso desde Bocachica. Después busca las piezas relacionadas con el tramo de puerto que recorriste."
+      },
+      "zh": {
+        "title": "加勒比海军博物馆",
+        "intro": "乘船看过港湾后，博物馆提供了另一种观察尺度。模型和历史实物把海湾的形状、城防遗产与曾经使用港口的船只联系起来。先读模型再看单件展品，更容易定位在海上难以辨认的地形细节。",
+        "route": "从圣佩德罗·克拉韦尔广场向圣胡安·德迪奥斯街和博物馆入口步行。先参观介绍卡塔赫纳和海湾的展厅，再依标识走向海军事物陈列，最后回到入口。",
+        "look": "先平视模型再从上方看；乘船时显得宽阔的航道，在俯视图中往往呈现不同尺度。",
+        "q": "刚从群岛坐船回来，优先看什么？",
+        "a": "先找海湾或堡垒模型，从博卡奇卡追踪进港路线，再找与刚经过的水域有关的展品。"
+      }
+    }
+  },
+  "palacio-inquisicion": {
+    "address": "Palacio de la Inquisición, Plaza de Bolívar, Cartagena de Indias, Bolívar, Colombia",
+    "group": "history",
+    "source": "https://www.muhca.gov.co/visita",
+    "photoSource": "https://www.muhca.gov.co/recursos/imagenes/patio_principal.jpg",
+    "image": "/port/palacio-inquisicion.webp",
+    "copy": {
+      "en": {
+        "title": "Cartagena History Museum, Palace of the Inquisition",
+        "intro": "The permanent exhibition changes subject as you move between floors. On the ground floor the museum uses the former Inquisition building to discuss the tribunal, human rights and coexistence. Upstairs the city's history stretches from pre-Hispanic communities through the struggle for independence and the nineteenth century.",
+        "route": "Begin on Plaza de Bolívar facing the palace doorway. Enter the museum, take the ground-floor rooms first, then follow the upstairs sequence on Cartagena. Stop in the courtyard to compare the building with the story told in the galleries.",
+        "look": "From the square take in the carved entrance before entering the courtyard; inside, use the staircase to distinguish the two exhibition levels.",
+        "q": "Is the whole museum devoted to the Inquisition?",
+        "a": "The ground-floor rooms address that subject; the upstairs galleries widen the visit to the history of Cartagena."
+      },
+      "es": {
+        "title": "Museo Histórico de Cartagena, Palacio de la Inquisición",
+        "intro": "La exposición cambia de tema al pasar de un piso al otro. Abajo, el museo utiliza la antigua sede del tribunal para hablar de la Inquisición, los derechos humanos y la convivencia. Arriba, la historia urbana va de las comunidades prehispánicas a la Independencia y al siglo XIX.",
+        "route": "Desde la Plaza de Bolívar localiza la portada del palacio. Visita primero la planta baja, luego sigue el recorrido de historia de Cartagena en el piso alto. Detente en el patio para contrastar el edificio con el relato de las salas.",
+        "look": "Observa desde la plaza la portada tallada antes de pasar al patio; dentro, la escalera ayuda a separar los dos recorridos expositivos.",
+        "q": "¿Todo el museo trata de la Inquisición?",
+        "a": "Las salas de la planta baja se dedican a ese tema; en el piso alto se amplía el recorrido a la historia de la ciudad."
+      },
+      "zh": {
+        "title": "宗教裁判所宫与卡塔赫纳历史博物馆",
+        "intro": "换一层楼，展览的主题也随之改变。底层利用原宗教裁判所建筑讲述审判机构、人权与共处；楼上则追溯城市历史，从西班牙人到来以前的社群一路讲到独立运动和十九世纪。",
+        "route": "从玻利瓦尔广场辨认宫殿门楼。进馆先看底层展室，再沿楼上卡塔赫纳历史展线参观。回到庭院时，可以比较建筑本身与展厅讲述的历史。",
+        "look": "进庭院前在广场观察石雕门楼，入内后留意连接两层展线的楼梯。",
+        "q": "全馆都是宗教裁判所展览吗？",
+        "a": "这个主题主要集中在底层，楼上的重点是更广泛的卡塔赫纳城市史。"
+      }
+    }
+  },
+  "santuario-san-pedro-claver": {
+    "address": "Santuario de San Pedro Claver, Carrera 4 #30-01, Cartagena de Indias, Bolívar, Colombia",
+    "group": "claver",
+    "source": "https://sanpedroclaver.co/tarifas-y-horarios/",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Pedro_Claver_vista_aerea.JPG",
+    "image": "/port/santuario-san-pedro-claver.webp",
+    "copy": {
+      "en": {
+        "title": "San Pedro Claver Sanctuary and Museum",
+        "intro": "The church and former Jesuit residence share a square but serve different purposes. The museum interprets the life of Pedro Claver in a port shaped by the transatlantic trade in enslaved Africans. Leave time for the cloister as well as the church: looking across the courtyard reveals the residential side of the complex.",
+        "route": "From the Clock Tower walk through the Plaza de los Coches and Plaza de la Aduana to Plaza San Pedro Claver. Go to the museum entrance at Carrera 4 No. 30-01. Follow the cloister circuit and check the church notice before entering the worship space.",
+        "look": "Step back across the plaza for the façade; once in the museum, use the cloister path to frame the quiet courtyard.",
+        "q": "Does a church service include a museum visit?",
+        "a": "Worship and museum admission have separate arrangements. Ask the museum desk about the galleries and the parish about services."
+      },
+      "es": {
+        "title": "Santuario Museo San Pedro Claver",
+        "intro": "La iglesia y la antigua residencia jesuita comparten plaza, pero cumplen funciones distintas. El museo interpreta la vida de Pedro Claver en un puerto marcado por la trata transatlántica de personas africanas esclavizadas. Reserva tiempo para el claustro: desde el patio se aprecia la dimensión residencial del conjunto.",
+        "route": "De la Torre del Reloj pasa por las plazas de los Coches y de la Aduana hasta la plaza San Pedro Claver. Busca el ingreso al museo en la carrera 4 n.º 30-01, recorre el claustro y consulta los avisos antes de entrar al templo.",
+        "look": "Cruza la plaza para ver la fachada completa; dentro del museo, el corredor del claustro enmarca el patio.",
+        "q": "¿Una celebración religiosa incluye las salas del museo?",
+        "a": "La entrada al museo se gestiona aparte. Pregunta en taquilla por las salas y en la parroquia por las celebraciones."
+      },
+      "zh": {
+        "title": "圣佩德罗·克拉韦尔圣所博物馆",
+        "intro": "教堂和原耶稣会居所面朝同一座广场，却有不同用途。博物馆介绍佩德罗·克拉韦尔在这座深受跨大西洋非洲奴隶贸易影响的港口中的生活。除了教堂，值得留时间走过回廊，从庭院观察旧居部分的布局。",
+        "route": "从钟楼经马车广场和海关广场走到圣佩德罗·克拉韦尔广场，在 Carrera 4 门牌30-01找博物馆入口。沿回廊参观后，先看礼拜安排再进教堂。",
+        "look": "退到广场另一边看完整正立面；购票入馆后，可从回廊边框取内院景色。",
+        "q": "参加教堂礼拜就能参观博物馆吗？",
+        "a": "礼拜和博物馆入场分开安排。展室开放情况询问售票处，礼拜则查询堂区公告。"
+      }
+    }
+  },
+  "museo-oro-zenu": {
+    "address": "Museo del Oro Zenú, Plaza de Bolívar, Cartagena de Indias, Bolívar, Colombia",
+    "group": "zenu",
+    "source": "https://www.banrepcultural.org/cartagena/biblioteca/programa-tu-visita",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Museo_del_Oro_Cartagena.jpg",
+    "image": "/port/museo-oro-zenu.webp",
+    "copy": {
+      "en": {
+        "title": "Zenú Gold Museum",
+        "intro": "The metalwork displayed here is a way into the history of the Zenú communities of Colombia's Caribbean lowlands. Look beyond the shine of a finished piece: examine its repeated fine patterns, then read the display on the people and landscapes behind it. This is a regional collection, distinct from the larger Gold Museum in Bogotá.",
+        "route": "From the Clock Tower follow the direction of the cathedral to Plaza de Bolívar. Locate the Banco de la República museum on the plaza and start with the introductory display before comparing the metalwork in the galleries.",
+        "look": "Compare two pieces of metalwork under the display lighting. Fine patterns become much clearer from the front of the case than in a wide photograph of the room.",
+        "q": "Which city contains this museum?",
+        "a": "The Museo del Oro Zenú is in Cartagena. Select the Plaza de Bolívar location when searching the map, since the bank operates other museums elsewhere."
+      },
+      "es": {
+        "title": "Museo del Oro Zenú",
+        "intro": "La orfebrería sirve de entrada a la historia de las comunidades zenúes de las tierras bajas del Caribe colombiano. Además del brillo, observa cómo se repiten los detalles finos en una pieza y lee el texto sobre la gente y el paisaje que le dieron origen. Es una colección regional distinta del Museo del Oro de Bogotá.",
+        "route": "Desde la Torre del Reloj avanza hacia la catedral y la Plaza de Bolívar. Busca el museo del Banco de la República en la plaza; comienza por la introducción antes de comparar las piezas de orfebrería.",
+        "look": "Compara dos piezas bajo la luz de la vitrina. El detalle de los patrones se reconoce mejor de frente que en una foto general de la sala.",
+        "q": "¿En qué ciudad se encuentra esta colección?",
+        "a": "El Museo del Oro Zenú está en Cartagena. Selecciona la sede de la Plaza de Bolívar, pues el Banco administra otros museos en el país."
+      },
+      "zh": {
+        "title": "泽努黄金博物馆",
+        "intro": "馆内金工展品是了解哥伦比亚加勒比低地泽努社群历史的入口。不要只看金属光泽，可先找反复出现的细密纹样，再读展签中有关制作者及其生活环境的说明。这是地区性收藏，与波哥大的黄金博物馆不同。",
+        "route": "从钟楼向主教座堂方向走到玻利瓦尔广场，在广场边找到共和国银行所属博物馆。先看导览说明，再进展室比较金工作品。",
+        "look": "选同一展柜中的两件金工作品，正对展柜比较细密纹样，比拍展厅全景更容易观察工艺差异。",
+        "q": "这是波哥大那座黄金博物馆吗？",
+        "a": "这座泽努黄金博物馆在卡塔赫纳。地图请选择玻利瓦尔广场的馆址，共和国银行在其他城市也有展馆。"
+      }
+    }
+  },
+  "aviario-nacional-baru": {
+    "address": "Aviario Nacional de Colombia, vía a Playa Blanca, Barú, Cartagena de Indias, Bolívar, Colombia",
+    "group": "aviary",
+    "source": "https://aviarionacional.co/",
+    "photoSource": "https://aviarionacional.co/wp-content/uploads/2023/05/aviario1.jpg",
+    "image": "/port/aviario-nacional-baru.webp",
+    "copy": {
+      "en": {
+        "title": "National Aviary of Colombia, Barú",
+        "intro": "The aviary on the Barú road is a land-based visit that can complement a day by the water. Its path introduces different Colombian habitats, so watch how the vegetation and the height at which birds perch change between enclosures. Staying still for a moment often reveals more than walking quickly from bird to bird.",
+        "route": "Arrange a road transfer to the signed Aviario Nacional entrance on the way to Playa Blanca. Begin at reception and follow the marked walking circuit through the habitats. Return to reception to meet the driver at the agreed time.",
+        "look": "Observe from the visitor path at different heights. Leave space around feeding and resting birds, and use the signs to identify the habitat.",
+        "q": "Can I walk here from the Oceanario?",
+        "a": "The Oceanario is on a separate island. The aviary has a road entrance on Barú, so plan land transport or an explicitly arranged boat-and-road connection."
+      },
+      "es": {
+        "title": "Aviario Nacional de Colombia, Barú",
+        "intro": "El aviario en la vía de Barú ofrece un recorrido terrestre que complementa un día junto al mar. El sendero presenta distintos hábitats colombianos: observa el cambio de vegetación y las alturas a las que se posan las aves entre recintos. Una pausa en silencio suele mostrar más que un paso apresurado.",
+        "route": "Acuerda transporte por carretera hasta la entrada señalizada del Aviario Nacional en la vía a Playa Blanca. Empieza en recepción, sigue el circuito peatonal por los hábitats y regresa al punto acordado para el vehículo.",
+        "look": "Observa desde el sendero a distintas alturas. Deja espacio a las aves que descansan o comen e identifica el hábitat por sus carteles.",
+        "q": "¿Se llega a pie desde el Oceanario?",
+        "a": "El Oceanario está en otra isla. El aviario tiene entrada por carretera en Barú; organiza el transporte terrestre o una conexión explícita de lancha y vehículo."
+      },
+      "zh": {
+        "title": "巴鲁哥伦比亚国家鸟园",
+        "intro": "巴鲁公路旁的鸟园是可以与海岸行程搭配的陆上景点。步道穿过模拟哥伦比亚不同栖息环境的展区，可比较植被变化，再留意鸟类停栖的高度。站在通道一侧安静观察一会儿，往往比急着从一个展区走到下一个更有收获。",
+        "route": "先约车到白沙滩方向公路上有标识的国家鸟园入口。在接待处开始，沿标出的步行游线参观各栖息地，再回接待区与司机会合。",
+        "look": "站在游客步道上从不同高度观察，给正在进食和休息的鸟留出距离，借助展牌辨认栖息环境。",
+        "q": "能从海洋馆步行到鸟园吗？",
+        "a": "海洋馆在另一座岛。鸟园入口位于巴鲁公路上，需安排陆路交通，或事先确认船和车辆的衔接。"
+      }
+    }
+  }
+}
