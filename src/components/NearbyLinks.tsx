@@ -7,7 +7,7 @@ export default function NearbyLinks({ locale }: { locale: string }) {
   const t = useTranslations('nearbyUi');
   const cards = [
     ...Object.entries(nearbyPlaces).map(([key, place]) => ({key, image:place.image, title:place.text[loc].title, summary:place.text[loc].tagline})),
-    ...Object.entries(portPlaces).map(([key, place]) => ({key, image:place.image, title:place.copy[loc].title, summary:place.copy[loc].look})),
+    ...Object.entries(portPlaces).map(([key, place]) => ({key, image:place.image, title:place.copy[loc].title, summary:place.copy[loc].subtitle})),
   ];
   return <section id="nearby" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
     <div className="max-w-5xl mx-auto">

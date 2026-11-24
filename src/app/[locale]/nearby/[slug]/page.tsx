@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     const entry = portPlaces[slug];
     const c = entry.copy[locale as NearbyLocale];
     const canonical = `${base}/${locale}/nearby/${slug}`;
-    return { title:c.title, description:c.intro, alternates:{ canonical, languages:Object.fromEntries([...locales.map(l=>[l,`${base}/${l}/nearby/${slug}`]),['x-default',`${base}/en/nearby/${slug}`]]) }, openGraph:{ title:c.title,description:c.intro,url:canonical,images:[base+entry.image] } };
+    return { title:c.title, description:c.subtitle, alternates:{ canonical, languages:Object.fromEntries([...locales.map(l=>[l,`${base}/${l}/nearby/${slug}`]),['x-default',`${base}/en/nearby/${slug}`]]) }, openGraph:{ title:c.title,description:c.subtitle,url:canonical,images:[base+entry.image] } };
   }
   if (!(slug in nearbyPlaces)) return {};
   const entry = nearbyPlaces[slug as NearbyKey];
