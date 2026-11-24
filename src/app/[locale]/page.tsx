@@ -25,7 +25,7 @@ export default async function HomePage({
 
   return (
     <>
-      <Header />
+      <Header overlay />
       <main>
         <Hero />
         <Intro />
